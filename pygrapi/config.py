@@ -27,6 +27,8 @@ class Config(object):
     def get_oauth_token(self, userid):
         """Retrieve the oauth token for an authorized user
         (or return None)"""
+        logging.error("Get Auth Token not implemented")
+        return None, None
 
     def load_api_keys(self):
         """check various locations for API key data in a file

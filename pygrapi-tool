@@ -1,2 +1,32 @@
 #! python
 
+import sys
+
+
+def commandline():
+    import argparse
+    parser = argparse.ArgumentParser(description =
+            "Perform some GoodReads tests/functions.")
+    parser.add_argument('--key')
+    parser.add_argument('--secret')
+    parser.add_argument('command', choices=('user',))
+
+    args = parser.parse_args()
+    return args
+
+
+args = commandline()
+
+from pygrapi.oauth import OAuth
+from pygrapi.config import config
+from pygrapi import call
+
+if args.command == 'user':
+    key, secret = [ x.strip() for x in open(__file__+'.key').readlines().split()[:2] ] # temp
+    client = OAuth(token=secret, secret=secret).client()
+    cmd = call.AuthUser(client)
+
+
+
+
+

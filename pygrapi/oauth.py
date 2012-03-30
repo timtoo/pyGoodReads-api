@@ -17,12 +17,12 @@ access_token_url = '%s/oauth/access_token/' % config.url
 
 
 class OAuth(object):
-    def __init__(self, userid):
+    def __init__(self, userid=None, token=None, secret=None):
         """Create Oauth object with userid for how user will be identified by this software"""
         self.userid = userid
         self.consumer = oauth.Consumer(key=config.api_key, secret=config.api_secret)
-        self.secret = None
-        self.token = None
+        self.secret = secret
+        self.token = token
         self.last_client_time = 0   # for rate limiting?
 
     def load_token(self):
@@ -37,7 +37,6 @@ class OAuth(object):
         """Store the access token for this user for future use"""
         logging.debug("OAuth Access Token: %s", request)
         raise Exception('Token storage not implemented')
-
         return self
 
     def make_request(self):
@@ -85,9 +84,9 @@ class OAuth(object):
 
         return self
 
-    def get_client(self, url):
+    def client(self):
         token = self.load_token()
-        client = oauth.Client(url, token)
+        client = oauth.Client(self.consumer, token)
         self.last_client_time = time.time()
         return client
 
