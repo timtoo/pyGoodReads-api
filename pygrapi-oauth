@@ -1,0 +1,25 @@
+#! python
+
+"""Attempt manual oauth"""
+
+import sys
+from pygrapi.oauth import OAuth
+
+
+oauth = OAuth('tim')
+req = oauth.make_request()
+
+print """Visit the following URL, accept authorization, then press enter"""
+print req['oauth_request_link']
+raw_input('[press enter...]')
+
+oauth.accepted_request(req)
+print oauth.token
+
+# oauth_token_secret=CRoIOnfZb62w7kPnz9XTiMjdRmC9GW1kGOm5plWiLY&oauth_token=lhTpCLRrAMaEjDwR4FSwKg
+
+
+
+
+
+
