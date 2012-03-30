@@ -1,4 +1,5 @@
 import urllib, time
+import logging
 
 from config import config
 
@@ -16,7 +17,6 @@ class Base(object):
         After that any keywords passed in will be set as command parameters.
         """
         self.data = {}
-        self.client = oauth_client
         self.update(kw)
         self.lastcall = 0
 
@@ -26,11 +26,12 @@ class Base(object):
             self.data = {}
         for k in dct.keys():
             self.__setitem__(k, dct[k])
+        return self
 
     def __setitem__(self, key, val):
         if not self.params.has_key(key):
             raise KeyError("Can not set key '%s'" % key)
-        self.data[key] = str(val)
+        self.data[key] = val
 
     def __getitem__(self, key):
         if not self.params.has_key(key):
@@ -38,12 +39,12 @@ class Base(object):
         return self.get(key)
 
     def get(self, key, default=None):
-        return self.data.get(key, default=default)
+        return self.data.get(key, default)
 
     def prepare(self):
         """Return dict with data prepared for communication with server"""
         url = config.url + '/' + self.url
-        params = urllib.urlencode(data)
+        params = urllib.urlencode(self.data)
 
         if self.method == 'POST':
             result = (url, self.method, params,
@@ -53,12 +54,12 @@ class Base(object):
                 url += '&'
             else:
                 url += '?'
-            url += parms
+            url += params
             result = (url, self.method)
 
         return result
 
-    def __call__(oauth_client, **kw):
+    def __call__(self, oauth_client, **kw):
         if kw:
             self.update(kw, clean=True)
 
@@ -66,7 +67,8 @@ class Base(object):
         while self.lastcall + 1 > time.time():
             time.sleep(1)
 
-        response, content = client.request(self.prepare())
+        logging.debug(str(self.prepare()))
+        response, content = oauth_client.request(*(self.prepare()))
         print response
         print content
 

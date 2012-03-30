@@ -19,12 +19,13 @@ args = commandline()
 
 from pygrapi.oauth import OAuth
 from pygrapi.config import config
-from pygrapi import call
+from pygrapi import method
 
 if args.command == 'user':
-    key, secret = [ x.strip() for x in open(__file__+'.key').readlines().split()[:2] ] # temp
+    key, secret = [ x.strip() for x in open(__file__+'.key').readlines()[:2] ] # temp
     client = OAuth(token=secret, secret=secret).client()
-    cmd = call.AuthUser(client)
+    cmd = method.AuthUser()
+    cmd(client)
 
 
 

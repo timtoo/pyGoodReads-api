@@ -1,8 +1,8 @@
-import pygrapi_test_setup
-
-from pygrapi import oauth
 
 import unittest
+
+import pygrapi_test_setup
+from pygrapi import oauth
 
 class OAuthTest(unittest.TestCase):
     def test_01(self):
