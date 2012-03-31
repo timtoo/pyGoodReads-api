@@ -1,6 +1,18 @@
 #! python
 
-"""Attempt manual oauth"""
+"""Attempt manual oauth
+
+1. Execute the script
+2. Load in browser the URL printed -- authenticate with goodreads
+    if not already logged in
+3. press enter to make script continue
+4. Note the access token and secret which is now printed
+
+Note: currently the script will raise an Error condition after the
+token/secret are, because the code doesn't know what to do with them.
+Do not be afraid of the error. Just look above it to get the token/secret.
+
+"""
 
 import sys
 from pygrapi.oauth import OAuth
@@ -16,7 +28,7 @@ raw_input('[press enter...]')
 oauth.accepted_request(req)
 print "Here is the key/secret to be used to access the authenticated account:"
 print '--key ', oauth.key
-print '--secret ', oauth, secret
+print '--secret ', oauth.secret
 
 # oauth_token_secret=CRoIOnfZb62w7kPnz9XTiMjdRmC9GW1kGOm5plWiLY&oauth_token=lhTpCLRrAMaEjDwR4FSwKg
 

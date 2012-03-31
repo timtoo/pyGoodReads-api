@@ -1,15 +1,26 @@
 #! python
 
-import sys
+"""Perform various tasks/tests using GoodReads API.
 
+If OAuth authentication is needed use the pygrapi-oauth script to authorize
+the application and retrieve the token/secret needed. The token and secret
+can be passed in to this script on command line, or stored in a file.
+
+(Of course before any of this you probably need a developer key/secret for
+the library to use. See pygrapi/config.py Config.load_api_key())
+
+"""
+
+import logging, sys
 
 def commandline():
     import argparse
     parser = argparse.ArgumentParser(description =
             "Perform some GoodReads tests/functions.")
-    parser.add_argument('--key')
-    parser.add_argument('--secret')
-    parser.add_argument('command', choices=('user',))
+    parser.add_argument('--token', help="OAuth access token")
+    parser.add_argument('--secret', help="OAuth access token secret")
+    parser.add_argument('--keyfile', help="File to read OAuth token/secret from (token on 1st line, secret on second)")
+    parser.add_argument('command', choices=('user',), help="Action for script to take (required)")
 
     args = parser.parse_args()
     return args
@@ -22,8 +33,14 @@ from pygrapi.config import config
 from pygrapi import method
 
 if args.command == 'user':
-    key, secret = [ x.strip() for x in open(__file__+'.key').readlines()[:2] ] # temp
-    client = OAuth(token=secret, secret=secret).client()
+
+    if not (args.token and args.secret):
+        keyfile = args.keyfile or os.path.abspath(__file__) + '.key'
+        if os.path.exists(keyfile):
+            key, secret = [ x.strip() for x in open(keyfile).readlines()[:2] ] # temp
+            logging.debug('key/secret read from file: %s', keyfile)
+
+    client = OAuth(token=key, secret=secret).client()
     cmd = method.AuthUser()
     cmd(client)
 

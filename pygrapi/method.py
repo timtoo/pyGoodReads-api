@@ -1,5 +1,6 @@
 import urllib, time
 import logging
+import re
 
 from config import config
 
@@ -50,14 +51,19 @@ class Base(object):
             result = (url, self.method, params,
                     {'content-type': 'application/x-www-form-urlencoded'})
         else:
-            if '?' in self.url:
-                url += '&'
-            else:
-                url += '?'
-            url += params
+            if params:
+                if '?' in self.url:
+                    url += '&'
+                else:
+                    url += '?'
+                url += params
             result = (url, self.method)
 
         return result
+
+    def name(self):
+        """Convert class name to goodreads API name"""
+        return re.sub(r'(\w)([A-Z])', r'\1.\2', self.__class__.__name__).lower()
 
     def __call__(self, oauth_client, **kw):
         if kw:
@@ -67,8 +73,9 @@ class Base(object):
         while self.lastcall + 1 > time.time():
             time.sleep(1)
 
-        logging.debug(str(self.prepare()))
-        response, content = oauth_client.request(*(self.prepare()))
+        request = self.prepare()
+        logging.debug(str(request))
+        response, content = oauth_client.request(*request)
         print response
         print content
 

@@ -26,7 +26,8 @@ class OAuth(object):
         self.last_client_time = 0   # for rate limiting?
 
     def load_token(self):
-        """Return the access token for this user, or None if user has no access token"""
+        """Return the oauth access token object for this user,
+        or None if user has no access token"""
         if not (self.token and self.secret):
             self.token, self.secret = config.get_oauth_token(self.userid)
 
@@ -35,7 +36,7 @@ class OAuth(object):
 
     def store_token(self):
         """Store the access token for this user for future use"""
-        logging.debug("OAuth Access Token: %s", request)
+        logging.debug("OAuth access token/secret: %s/%s", self.token, self.secret)
         raise Exception('Token storage not implemented')
         return self
 
@@ -86,6 +87,7 @@ class OAuth(object):
 
     def client(self):
         token = self.load_token()
+        logging.debug('loaded token: %s', token)
         client = oauth.Client(self.consumer, token)
         self.last_client_time = time.time()
         return client
