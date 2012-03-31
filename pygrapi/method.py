@@ -1,3 +1,14 @@
+"""
+The Base class contains most/all the methods/logic for communicating with GoodReads.
+
+A minimal subclass is made for each API command.
+
+The subclass names are a morphed version of the GoodReads API name. The period is
+removed and the segements are camel-cased. There is a .name() method to convert
+the class name back to the official GoodReads name if needed.
+"""
+
+
 import urllib, time
 import logging
 import re
