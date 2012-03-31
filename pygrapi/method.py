@@ -2,6 +2,8 @@ import urllib, time
 import logging
 import re
 
+from xml.etree import ElementTree
+
 from config import config
 
 POST = 'POST'
@@ -74,22 +76,45 @@ class Base(object):
             time.sleep(1)
 
         request = self.prepare()
-        logging.debug(str(request))
+        logging.debug('Request: %r', request)
         response, content = oauth_client.request(*request)
-        print response
-        print content
+        logging.debug('Response: %r', response)
 
+        if response['status'] not in ('200', '201', '202'):
+            raise Exception('HTTP Error: %s' % response['status'])
+
+        if self.tag:
+            result = self.xml2dict(content, self.tag)
+        else:
+            result = content
+
+        return result
+
+
+    @staticmethod
+    def xml2dict(xml, tag):
+        tree = ElementTree.fromstring(xml)
+        out = []
+
+        for el in tree.iter(tag):
+            data = { 'id' : el.get('id') }
+            for tag in list(el):
+                if tag.text:
+                    data[tag.tag] = tag.text
+            out.append(data)
+
+        return out
 
 
 class AuthUser(Base):
     url = 'api/auth_user'
-    method = GET
+    tag = 'user'
+    oauth = True
 
 
 class AuthorBooks(Base):
     url = 'author/list.xml'
-    method = GET
-    params = {
+    param = {
             'key': '*Developer key',
             'id': '*Goodreads author id',
             'page': 'page'
@@ -97,11 +122,37 @@ class AuthorBooks(Base):
 
 class AuthorShow(Base):
     url = 'author/show.xml'
-    method = GET
     param = {
             'key': '*Developer key',
             'id': '*Goodreads author id',
     }
+
+class BookIsbn_to_id(Base):
+    url = 'book/isbn_to_id'
+    param = {
+            'key': '*Developer key',
+            'isbn': '*ISBN of book to lookup',
+    }
+
+class BookReview_counts(Base):
+    url = 'book/review_counts.json'
+    param = {
+            'key': '*Developer key',
+            'isbns': '*Array of ISBNs or a comma separated string of ISBNs (1000 max)',
+            'format': 'json',
+            'callback': 'function to wrap JSON response',
+    }
+
+class BookShow(Base):
+    url = 'book/show?format=json'
+    param =  {
+            'rating': 'Show only reviews with a particular rating',
+            'key': '*Developer key',
+            'text_only': 'Only show reviews that have text (default: false)',
+            'id': '*Goodreads internal book id',
+            }
+
+
 
 
 class AddQuote(Base):

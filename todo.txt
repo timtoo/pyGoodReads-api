@@ -1,0 +1,15 @@
+- alter __call__ to handle non-oauth calls
+    - can we rely on presense of param['key'] to indicate non-oauth?
+
+- method to validate required fields are filled
+
+- have parser detect XML or JSON...
+- test json returns to see what it looks like
+
+- add Base methods to wrap logic:
+    - oauth()
+
+
+- think about pager issues
+
+

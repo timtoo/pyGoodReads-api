@@ -11,7 +11,7 @@ the library to use. See pygrapi/config.py Config.load_api_key())
 
 """
 
-import logging, sys
+import logging, sys, os
 
 def commandline():
     import argparse
@@ -42,7 +42,8 @@ if args.command == 'user':
 
     client = OAuth(token=key, secret=secret).client()
     cmd = method.AuthUser()
-    cmd(client)
+    data = cmd(client)
+    print data
 
 
 
