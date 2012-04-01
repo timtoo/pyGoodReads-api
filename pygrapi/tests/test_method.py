@@ -2,12 +2,16 @@ import unittest
 
 import pygrapi_test_setup
 from pygrapi import method
+from pygrapi import GoodReads
 
 class MethodTest(unittest.TestCase):
     def test_base(self):
-        test = method.Base()
+        goodreads = GoodReads()
+        test = method.Base(goodreads)
 
     def test_custom(self):
+        goodreads = GoodReads()
+
         class TestMethod(method.Base):
             url = 'test/method.xml'
             method = method.POST
@@ -16,7 +20,7 @@ class MethodTest(unittest.TestCase):
                     'param': 'another parameter',
                     }
 
-        test = TestMethod()
+        test = TestMethod(goodreads)
         data = test.prepare()
         self.assertEqual(data,
                 ('http://www.goodreads.com/test/method.xml',

@@ -14,7 +14,6 @@ import re
 
 from xml.etree import ElementTree
 
-from config import config
 POST = 'POST'
 GET = 'GET'
 PUT = 'PUT'
@@ -29,13 +28,32 @@ class Base(object):
     params = {}
     format = RAW
 
-    def __init__(self, **kw):
+    def __init__(self, context, **kw):
         """The first argument is the optional oauth client instance.
         After that any keywords passed in will be set as command parameters.
         """
+        self.context = context
         self.data = {}
         self.update(kw)
         self.lastcall = 0
+
+    def __setitem__(self, key, val):
+        """Only set acceptable keys"""
+        if not self.params.has_key(key):
+            raise KeyError("Can not set key '%s'" % key)
+        self.data[key] = val
+
+    def __getitem__(self, key):
+        """Returns none if key not set"""
+        if not self.params.has_key(key):
+            raise KeyError("Can not get key '%s'" % key)
+        return self.get(key)
+
+    def get(self, key, default=None):
+        return self.data.get(key, default)
+
+    def keys(self):
+        return self.params.keys()
 
     def update(self, dct, clean=False):
         """Update object's data from dictionary"""
@@ -45,22 +63,9 @@ class Base(object):
             self.__setitem__(k, dct[k])
         return self
 
-    def __setitem__(self, key, val):
-        if not self.params.has_key(key):
-            raise KeyError("Can not set key '%s'" % key)
-        self.data[key] = val
-
-    def __getitem__(self, key):
-        if not self.params.has_key(key):
-            raise KeyError("Can not get key '%s'" % key)
-        return self.get(key)
-
-    def get(self, key, default=None):
-        return self.data.get(key, default)
-
     def prepare(self):
-        """Return dict with data prepared for communication with server"""
-        url = config.url + '/' + self.url
+        """Return arguments ready to pass to httplib2/oauth2 client"""
+        url = self.context.config.url + '/' + self.url
         params = urllib.urlencode(self.data)
 
         if self.method == 'POST':
@@ -81,7 +86,7 @@ class Base(object):
         """Convert class name to goodreads API name"""
         return re.sub(r'(\w)([A-Z])', r'\1.\2', self.__class__.__name__).lower()
 
-    def __call__(self, client, **kw):
+    def __call__(self, **kw):
         if kw:
             self.update(kw, clean=True)
 
@@ -91,7 +96,7 @@ class Base(object):
 
         request = self.prepare()
         logging.debug('Request: %r', request)
-        response, content = client.request(*request)
+        response, content = self.context.oauth_client.request(*request)
         logging.debug('Response: %r', response)
 
         if response['status'] not in ('200', '201', '202'):
@@ -103,7 +108,6 @@ class Base(object):
             result = content
 
         return result
-
 
     @staticmethod
     def xml2dict(xml, tag):

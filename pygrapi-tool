@@ -28,9 +28,7 @@ def commandline():
 
 args = commandline()
 
-from pygrapi.oauth import OAuth
-from pygrapi.config import config
-from pygrapi import method
+from pygrapi import GoodReads
 
 if args.command == 'user':
 
@@ -40,9 +38,9 @@ if args.command == 'user':
             key, secret = [ x.strip() for x in open(keyfile).readlines()[:2] ] # temp
             logging.debug('key/secret read from file: %s', keyfile)
 
-    client = OAuth(token=key, secret=secret).client()
-    cmd = method.AuthUser()
-    data = cmd(client)
+    goodreads= GoodReads(oauth_token=key, oauth_secret=secret)
+    cmd = method.AuthUser(goodreads)
+    data = cmd()
     print data
 
 
