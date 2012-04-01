@@ -11,7 +11,7 @@ class GoodReads(object):
         self.oauth_client = None
 
         if (oauth_token and oauth_token_secret):
-            self.oauth_client = OAuth(token=oauth_token, secret=oauth_token_secret)
+            self.oauth_client = OAuth(token=oauth_token, secret=oauth_token_secret).client()
 
 
 
