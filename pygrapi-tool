@@ -20,7 +20,8 @@ def commandline():
     parser.add_argument('--token', help="OAuth access token")
     parser.add_argument('--secret', help="OAuth access token secret")
     parser.add_argument('--keyfile', help="File to read OAuth token/secret from (token on 1st line, secret on second)")
-    parser.add_argument('command', choices=('user',), help="Action for script to take (required)")
+    parser.add_argument('command', help="Action for script to take (required)")
+    #parser.add_argument('command', choices=('user',), help="Action for script to take (required)")
 
     args = parser.parse_args()
     return args
@@ -30,17 +31,25 @@ args = commandline()
 
 from pygrapi import GoodReads, method
 
-if args.command == 'user':
+# try reading token/secret from file if not given on command line
+if not (args.token and args.secret):
+    keyfile = args.keyfile or os.path.abspath(__file__) + '.key'
+    if os.path.exists(keyfile):
+        args.token, args.secret = [ x.strip() for x in open(keyfile).readlines()[:2] ] # temp
+        logging.debug('key/secret read from file: %s', keyfile)
 
-    if not (args.token and args.secret):
-        keyfile = args.keyfile or os.path.abspath(__file__) + '.key'
-        if os.path.exists(keyfile):
-            key, secret = [ x.strip() for x in open(keyfile).readlines()[:2] ] # temp
-            logging.debug('key/secret read from file: %s', keyfile)
+goodreads= GoodReads(oauth_token=args.token, oauth_token_secret=args.secret)
 
-    goodreads= GoodReads(oauth_token=key, oauth_token_secret=secret)
-    cmd = method.AuthUser(goodreads)
-    data = cmd()
+if args.command == 'methods':
+    print [ x for x in dir(method) if hasattr(getattr(method,x), '__dict__') and issubclass(getattr(method, x), method.Base) ]
+
+
+elif hasattr(method, args.command):
+
+    call = getattr(method, args.command)(goodreads)
+
+    data = call()
+
     print data
 
 

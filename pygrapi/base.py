@@ -27,6 +27,7 @@ class Base(object):
     method = GET
     params = {}
     format = RAW
+    tag = None
 
     def __init__(self, context, **kw):
         """The first argument is the optional oauth client instance.

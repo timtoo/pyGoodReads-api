@@ -40,14 +40,33 @@ class BookReview_counts(Base):
     }
 
 class BookShow(Base):
-    url = 'book/show?format=json'
+    url = 'book/show'
     param =  {
             'rating': 'Show only reviews with a particular rating',
             'key': '*Developer key',
             'text_only': 'Only show reviews that have text (default: false)',
             'id': '*Goodreads internal book id',
+            'format': 'xml or json',
             }
 
+class BookShow_by_isbn(Base):
+    url = 'book/show'
+    param =  {
+            'rating': 'Show only reviews with a particular rating',
+            'key': '*Developer key',
+            'isbn': '*The ISBN of the book to look up',
+            'user_id': '*3882378 (required only for JSON)',
+            'callback': 'function ot wrap JSON response if format=json',
+            'format': 'xml or json',
+            }
+
+
+class Owned_booksList(Base):
+    url = 'owned_books/user?format=xml'
+    param = {
+        'page': '1-N (optional, default 1)',
+        'id': 'Goodreads user_id',
+    }
 
 
 
