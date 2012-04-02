@@ -1,25 +1,27 @@
-"""Base object for representing/handling goodreads data"""
-
-import logging
-from xml.dom import minidom, Node
-from xml.parsers.expat import ExpatError, ErrorString
+"""Represent various data structures"""
 
 
-class GoodReadsObject(object):
-    """An object modelling a goodreads object. Features:
+class User(object):
+    tag =
 
-        - data accessable as a dictionary
-        - parse XML from goodreads
-        - create XML for goodreads?
-        - serializable?
 
-    """
-    def __init__(self):
-        self.data = {}
 
-    def parseXML(self, xml):
-        """Create an object FROM xml"""
+class Book(object):
+    contains = (Author, Shelf)
 
+
+
+class OwnedBook(object):
+    contains = (Book,)
+
+
+
+class Author(object):
+
+
+
+
+class Shelf(object):
 
 
 

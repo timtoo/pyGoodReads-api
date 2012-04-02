@@ -13,6 +13,12 @@ the library to use. See pygrapi/config.py Config.load_api_key())
 
 import logging, sys, os
 
+from pygrapi import GoodReads, method, config
+
+method_methods = [ x for x in dir(method) \
+        if hasattr(getattr(method,x), '__dict__') and \
+                issubclass(getattr(method, x), method.Base) ]
+
 def commandline():
     import argparse
     parser = argparse.ArgumentParser(description =
@@ -20,20 +26,19 @@ def commandline():
     parser.add_argument('--token', help="OAuth access token")
     parser.add_argument('--secret', help="OAuth access token secret")
     parser.add_argument('--keyfile', help="File to read OAuth token/secret from (token on 1st line, secret on second)")
-    parser.add_argument('command', help="Action for script to take (required)")
-    #parser.add_argument('command', choices=('user',), help="Action for script to take (required)")
+    parser.add_argument('command', choices=tuple(method_methods), help="Action for script to take (required)")
 
     args = parser.parse_args()
     return args
 
 
+
 args = commandline()
 
-from pygrapi import GoodReads, method, config
 
 # try reading token/secret from file if not given on command line
 if not (args.token and args.secret):
-    fn = args.keyfile or config.find_file('pygrapi-oauth.key', extra=(__file__,))
+    fn = args.keyfile or config.find_file('pygrapi-oauth.key', caller_file = __file__)
     if fn:
         logging.debug('Reading key/secret from file: %s', fn)
         args.token, args.secret = [ x.strip() for x in open(fn).readlines()[:2] ] # temp

@@ -29,26 +29,35 @@ class Config(object):
         logging.error("Get Auth Token not implemented")
         return None, None
 
-    def find_file(self, filename, extra=()):
+    def find_file(self, filename, extra=(), caller_file=None):
         """Search various places for a filename and return first hit.
 
         Also tries filename with a dot in front of it, on each path.
 
-        Optionally pass in list of extra paths to search"""
+        caller_file can be the filename (__file__) of the calling file,
+        instead of the path of the module file.
+
+        Optionally pass in list of extra paths to search
+        """
+
         paths = (
                 os.path.expanduser('~'),
                 os.path.expanduser('~/.config'),
                 os.path.expanduser('~/.local'),
-                os.path.split(os.path.abspath(__file__))[0],
+                os.path.split(os.path.abspath(caller_file or __file__))[0],
                 )
         if extra:
             paths = tuple(extra) + paths
 
+        logging.debug('file_file "%s" on paths: %r', filename, paths)
+
         for p in paths:
+
             fn = os.path.join(p, filename)
-            dotfn = os.path.join(p, '.' + filename)
             if os.path.exists(fn):
                 return fn
+
+            dotfn = os.path.join(p, '.' + filename)
             if os.path.exists(dotfn):
                 return dotfn
 

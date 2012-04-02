@@ -26,6 +26,7 @@ class Base(object):
     method = GET
     params = {}
     format = RAW
+    objects = ()
     tag = None
 
     def __init__(self, context, **kw):
@@ -104,9 +105,11 @@ class Base(object):
         if self.use_oauth:
             if not self.context.oauth_client:
                 raise RuntimeError("OAuth required, but keys not provided")
-            response, content = self.context.oauth_client.request(*request)
+            client = self.context.oauth_client
         else:
-            response, content = self.context.http_client.request(*request)
+            client = self.context.http_client
+
+        response, content = client.request(*request)
 
         logging.debug('Response: %r', response)
 
