@@ -29,14 +29,14 @@ def commandline():
 
 args = commandline()
 
-from pygrapi import GoodReads, method
+from pygrapi import GoodReads, method, config
 
 # try reading token/secret from file if not given on command line
 if not (args.token and args.secret):
-    keyfile = args.keyfile or os.path.abspath(__file__) + '.key'
-    if os.path.exists(keyfile):
-        args.token, args.secret = [ x.strip() for x in open(keyfile).readlines()[:2] ] # temp
-        logging.debug('key/secret read from file: %s', keyfile)
+    fn = args.keyfile or config.find_file('pygrapi-oauth.key', extra=(__file__,))
+    if fn:
+        logging.debug('Reading key/secret from file: %s', fn)
+        args.token, args.secret = [ x.strip() for x in open(fn).readlines()[:2] ] # temp
 
 goodreads= GoodReads(oauth_token=args.token, oauth_token_secret=args.secret)
 

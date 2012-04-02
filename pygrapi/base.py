@@ -11,7 +11,6 @@ the class name back to the official GoodReads name if needed.
 import urllib, time
 import logging
 import re
-
 from xml.etree import ElementTree
 
 POST = 'POST'
@@ -64,7 +63,7 @@ class Base(object):
             self.__setitem__(k, dct[k])
         return self
 
-    def prepare(self):
+    def prepare_http(self):
         """Return arguments ready to pass to httplib2/oauth2 client"""
         url = self.context.config.url + '/' + self.url
         params = urllib.urlencode(self.data)
@@ -83,6 +82,10 @@ class Base(object):
 
         return result
 
+    def use_oauth(self):
+        # assume if an API function does not define key parameter, oauth
+        return self.param.has_key('key')
+
     def name(self):
         """Convert class name to goodreads API name"""
         return re.sub(r'(\w)([A-Z])', r'\1.\2', self.__class__.__name__).lower()
@@ -95,9 +98,16 @@ class Base(object):
         while self.lastcall + 1 > time.time():
             time.sleep(1)
 
-        request = self.prepare()
+        request = self.prepare_http()
         logging.debug('Request: %r', request)
-        response, content = self.context.oauth_client.request(*request)
+
+        if self.use_oauth:
+            if not self.context.oauth_client:
+                raise RuntimeError("OAuth required, but keys not provided")
+            response, content = self.context.oauth_client.request(*request)
+        else:
+            response, content = self.context.http_client.request(*request)
+
         logging.debug('Response: %r', response)
 
         if response['status'] not in ('200', '201', '202'):

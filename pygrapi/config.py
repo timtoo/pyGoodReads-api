@@ -15,7 +15,6 @@ class Config(object):
         if not (self._api_key or self._api_secret):
             self.load_api_keys()
 
-
     @property
     def api_key(self):
         return self._api_key
@@ -30,20 +29,44 @@ class Config(object):
         logging.error("Get Auth Token not implemented")
         return None, None
 
+    def find_file(self, filename, extra=()):
+        """Search various places for a filename and return first hit.
+
+        Also tries filename with a dot in front of it, on each path.
+
+        Optionally pass in list of extra paths to search"""
+        paths = (
+                os.path.expanduser('~'),
+                os.path.expanduser('~/.config'),
+                os.path.expanduser('~/.local'),
+                os.path.split(os.path.abspath(__file__))[0],
+                )
+        if extra:
+            paths = tuple(extra) + paths
+
+        for p in paths:
+            fn = os.path.join(p, filename)
+            dotfn = os.path.join(p, '.' + filename)
+            if os.path.exists(fn):
+                return fn
+            if os.path.exists(dotfn):
+                return dotfn
+
+        return None
+
     def load_api_keys(self):
         """check various locations for API key data in a file
         (format: first line is key, second line is secret)"""
         # currently only looks for 'api.key' in this file's directory
         key_paths = [ os.path.split(__file__)[0] + os.sep + 'api.key' ]
-        for p in key_paths:
-            if os.path.exists(p):
-                logging.info("API key file found at: %s", p)
-                keys = open(p).readlines()
-                if len(keys)>0:
-                    self._api_key = keys[0].strip()
-                if len(keys)>1:
-                    self._api_secret = keys[1].strip()
-                break
+        fn = self.find_file('goodreads-api.key')
+        if fn:
+            logging.info("API key file found at: %s", fn)
+            keys = open(fn).readlines()
+            if len(keys)>0:
+                self._api_key = keys[0].strip()
+            if len(keys)>1:
+                self._api_secret = keys[1].strip()
 
 config = Config()
 
