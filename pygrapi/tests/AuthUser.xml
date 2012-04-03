@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[developer key goes here]]></key>
+    <method><![CDATA[api_auth_user]]></method>
+  </Request>
+  <user id="3882378">
+	<name><![CDATA[Tim Middleton]]></name>
+	<link><![CDATA[http://www.goodreads.com/user/show/3882378-tim?utm_medium=api]]></link>
+</user>
+</GoodreadsResponse>

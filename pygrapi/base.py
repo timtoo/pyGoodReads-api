@@ -25,8 +25,8 @@ class Base(object):
     url = ''
     method = GET
     params = {}
-    format = RAW
     objects = ()
+    format = None
     tag = None
 
     def __init__(self, context, **kw):
@@ -116,8 +116,22 @@ class Base(object):
         if response['status'] not in ('200', '201', '202'):
             raise Exception('HTTP Error: %s' % response['status'])
 
-        if self.tag:
+        if not self.format:
+            if self.tag:
+                format = XML
+            elif content.startswith('<'):
+                format = XML
+            elif content.startswith('['):
+                format = JSON
+            else:
+                format = RAW
+        else:
+            format = RAW
+
+        if format == XML:
             result = self.xml2dict(content, self.tag)
+        elif format == JSON:
+            raise RuntimeError("JSON decode not implemented")
         else:
             result = content
 

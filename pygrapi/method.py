@@ -1,11 +1,14 @@
 """Goodreads API methods"""
 
-from base import Base, POST, GET, PUT
+from base import Base
+from base import POST, GET, PUT
+from base import RAW, XML, JSON
 
 class AuthUser(Base):
     url = 'api/auth_user'
     tag = 'user'
     oauth = True
+    format = RAW
 
 
 class AuthorBooks(Base):
