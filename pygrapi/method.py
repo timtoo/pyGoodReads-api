@@ -12,12 +12,13 @@ class AuthUser(Base):
 
 
 class AuthorBooks(Base):
-    url = 'author/list.xml'
+    url = 'http://www.goodreads.com/author/list/%(id)s.xml'
     param = {
             'key': '*Developer key',
             'id': '*Goodreads author id',
             'page': 'page'
     }
+    example = { 'id': '18541', 'key': 'CL0tx5vHxrTQtzKD4CvJQ' }
 
 class AuthorShow(Base):
     url = 'author/show.xml'

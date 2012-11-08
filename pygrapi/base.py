@@ -67,6 +67,13 @@ class Base(object):
     def prepare_http(self):
         """Return arguments ready to pass to httplib2/oauth2 client"""
         url = self.context.config.url + '/' + self.url
+
+        if '%(' in self.url:
+            url = url % self.data
+
+        if self.params.has_key('key') and self.data.has_key('key'):
+            self.data['key'] = self.config.api_key
+
         params = urllib.urlencode(self.data)
 
         if self.method == 'POST':

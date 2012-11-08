@@ -1,4 +1,4 @@
-#! python
+#! /usr/bin/python
 
 """Perform various tasks/tests using GoodReads API.
 
@@ -12,6 +12,7 @@ the library to use. See pygrapi/config.py Config.load_api_key())
 """
 
 import logging, sys, os
+import urlparse
 
 from pygrapi import GoodReads, method, config
 
@@ -26,9 +27,17 @@ def commandline():
     parser.add_argument('--token', help="OAuth access token")
     parser.add_argument('--secret', help="OAuth access token secret")
     parser.add_argument('--keyfile', help="File to read OAuth token/secret from (token on 1st line, secret on second)")
+    parser.add_argument('--data', help="url encoded data to be used as command arguments")
     parser.add_argument('command', choices=tuple(method_methods), help="Action for script to take (required)")
 
     args = parser.parse_args()
+
+    # decode data to be used for testing
+    if args.data:
+        pairs = self.data.split('&')
+        data = dict( [ urlparse.unquote(x.split('=',1)) for x in pairs ] )
+        args.data = data
+
     return args
 
 
