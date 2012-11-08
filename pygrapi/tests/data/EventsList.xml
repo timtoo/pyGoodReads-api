@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[CL0tx5vHxrTQtzKD4CvJQ]]></key>
+    <method><![CDATA[event_index]]></method>
+  </Request>
+  <events>
+      <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2011-10-05T15:50:37-07:00</created_at>
+  <end_at type="datetime">2013-12-31T23:59:00-08:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">6109</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">161360</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">1143268</resource_id>
+  <resource_type>User</resource_type>
+  <rsvp_end_at type="datetime">2013-12-31T15:49:00-08:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-12-31T16:49:00-08:00</start_at>
+  <state_code></state_code>
+  <title>Got Great Giveaways - Book Giveaway Link Up - New Linky Each Wednesday</title>
+  <updated_at type="datetime">2011-10-12T07:42:44-07:00</updated_at>
+  <user_id type="integer">1143268</user_id>
+  <venue></venue>
+  <image_url>http://photo.goodreads.com/users/1333223207p2/1143268.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/161360</link>
+  <description>
+    <![CDATA[<a rel="nofollow" target="_blank" href="http://iamareadernotawriter.blogspot.com/search/label/Got%20Great%20Giveaways"><img src="http://i1228.photobucket.com/albums/ee448/toobusyreading/GGG-1-2.png" alt="Photobucket" class="escapedImg"/></a><br/>Are you looking for Great Book Giveaways? Are you hosting a giveaway and want to get the word out?<br/><br/>Got Great Giveaways is a weekly Book Giveaway Link Up hosted by I Am A Reader, Not A Writer. A new Linky is posted each Wednesday.<br/><a rel="nofollow" target="_blank" href="http://iamareadernotawriter.blogspot.com/search/label/Got%20Great%20Giveaways">CLICK TO VIEW THE CURRENT GOT GREAT GIVEAWAYS POST</a>]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address>http://slowloveblog.blogspot.com/2011/12/path-of-yellow-leaves.html</address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2011-12-22T18:28:07-08:00</created_at>
+  <end_at type="datetime">2012-12-29T18:24:00-08:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">5730</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">228556</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at type="datetime">2012-12-15T19:24:00-08:00</reminder_at>
+  <resource_id type="integer">6758</resource_id>
+  <resource_type>Author</resource_type>
+  <rsvp_end_at type="datetime">2012-12-29T18:24:00-08:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-12-22T19:24:00-08:00</start_at>
+  <state_code></state_code>
+  <title>A Path of Yellow Leaves</title>
+  <updated_at type="datetime">2011-12-22T18:28:07-08:00</updated_at>
+  <user_id type="integer">911622</user_id>
+  <venue>http://slowloveblog.blogspot.com/2011/12/path-of-yellow-leaves.html</venue>
+  <image_url>http://photo.goodreads.com/authors/1329578193p2/6758.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/228556</link>
+  <description>
+    <![CDATA[A Path of Yellow Leaves<br/><br/><a rel="nofollow" target="_blank" href="http://slowloveblog.blogspot.com/2011/12/path-of-yellow-leaves.html" title="http://slowloveblog.blogspot.com/2011/12/path-of-yellow-leaves.html">http://slowloveblog.blogspot.com/2011/12...</a>]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2012-04-03T21:58:58-07:00</created_at>
+  <end_at type="datetime">2012-04-10T21:58:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">5592</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">287185</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">42560</resource_id>
+  <resource_type>Group</resource_type>
+  <rsvp_end_at type="datetime">2012-04-10T21:58:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-09T22:58:00-07:00</start_at>
+  <state_code></state_code>
+  <title>Blogger Lift #41</title>
+  <updated_at type="datetime">2012-04-03T21:58:58-07:00</updated_at>
+  <user_id type="integer">4418048</user_id>
+  <venue></venue>
+  <image_url>http://photo.goodreads.com/groups/1331172096p2/42560.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/287185</link>
+  <description>
+    <![CDATA[On  <strong>Blogger Lift</strong> this week we have:<br/><br/><a rel="nofollow" target="_blank" href="http://teenagebookaholic.weebly.com/"><img src="http://3.bp.blogspot.com/-qIS9Woh4EEg/T3vT2aLkgfI/AAAAAAAAC5g/CA-ymBDG884/s200/8454772_orig.jpg" width="200" height="200" class="escapedImg"/></a><br/><br/><a rel="nofollow" target="_blank" href="http://teenagebookaholic.weebly.com/"><u><strong>Teenage Bookaholic.</strong></u></a><br/><br/>Check it out, Support, Enjoy :) <br/><br/><strong>Check out my interview with the Blogger <a rel="nofollow" target="_blank" href="http://inbetweenwritingandreading.blogspot.mx/2012/04/blogger-lift-blogger-lift-is-hosted.html">HERE</a> </strong>]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2011-12-06T22:57:10-08:00</created_at>
+  <end_at type="datetime">2013-12-13T22:55:00-08:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">5513</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">227257</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">6758</resource_id>
+  <resource_type>Author</resource_type>
+  <rsvp_end_at type="datetime">2012-02-13T22:55:00-08:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-06T23:55:00-07:00</start_at>
+  <state_code></state_code>
+  <title>Steve Jobs, Surfing, and the Nature of Nature</title>
+  <updated_at type="datetime">2011-12-06T22:57:10-08:00</updated_at>
+  <user_id type="integer">911622</user_id>
+  <venue>http://slowloveblog.blogspot.com/2011/12/life-like-water-steve-jobs-surfing-and.html</venue>
+  <image_url>http://photo.goodreads.com/authors/1329578193p2/6758.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/227257</link>
+  <description>
+    <![CDATA[Steve Jobs, Surfing, and the Nature of Nature<br/><br/><a rel="nofollow" target="_blank" href="http://slowloveblog.blogspot.com/2011/12/life-like-water-steve-jobs-surfing-and.html" title="http://slowloveblog.blogspot.com/2011/12/life-like-water-steve-jobs-surfing-and.html">http://slowloveblog.blogspot.com/2011/12...</a>]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2012-03-08T17:45:38-08:00</created_at>
+  <end_at type="datetime">2012-12-31T17:44:00-08:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">5380</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">235718</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">42560</resource_id>
+  <resource_type>Group</resource_type>
+  <rsvp_end_at type="datetime">2012-03-15T17:44:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-20T18:44:00-07:00</start_at>
+  <state_code></state_code>
+  <title>KONY 2012</title>
+  <updated_at type="datetime">2012-03-08T17:45:38-08:00</updated_at>
+  <user_id type="integer">4418048</user_id>
+  <venue></venue>
+  <image_url>http://photo.goodreads.com/groups/1331172096p2/42560.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/235718</link>
+  <description>
+    <![CDATA[Original Post: <a rel="nofollow" target="_blank" href="http://www.goodreads.com/topic/show/827374-kony-2012" title="http://www.goodreads.com/topic/show/827374-kony-2012">http://www.goodreads.com/topic/show/8273...</a><br/><br/><a rel="nofollow" target="_blank" href="http://4.bp.blogspot.com/-mOaI5xChKHQ/T1ldNTfJkFI/AAAAAAAACgs/Y9ioj0z13jY/s1600/Kony_poster.jpg"><img src="http://4.bp.blogspot.com/-mOaI5xChKHQ/T1ldNTfJkFI/AAAAAAAACgs/Y9ioj0z13jY/s400/Kony_poster.jpg" width="260" height="400" class="escapedImg"/></a><br/><br/>Do you know who Joseph Kony is? are you aware about what the MAKE HIM FAMOUS project is? Here's what you need to know:<br/><br/>&quot;JOSEPH KONY IS THE WORST LIVING CRIMINAL.<br/>He has abducted over 30,000 children and forced them to be <u>Child Soldiers</u> in central Africa. He remains at large because he is invisible to the world. Few know his name, even fewer know his crimes. This year we are making Joseph Kony Famous. Because when he is, The World will unite for justice and demand his arrest.&quot;<br/><br/><strong>Inform Youself</strong><br/>To know more about this watch this whole video on Youtube, it has all the information on what this man is doing, but most importantly <u>What YOU can do to stop him</u> <br/><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=Y4MnpzG5Sqc" title="http://www.youtube.com/watch?v=Y4MnpzG5Sqc">http://www.youtube.com/watch?v=Y4MnpzG5S...</a><br/><br/><strong>Spread the Word</strong><br/>Print out the posters, spread the word, make blog posts, use Facebook, Twitter, tell your friends!<br/><br/><br/><br/>This is very important guys, it is a new way of fighting <em>for what it's right</em>. We know about what's on People Magazine or on Vogue, but what about the bad guys? How can we know who they are and what they have done if no one bothers to show them to us and we don't bother to look for them? It's time to start. Spread the word. Show the video. Let the world know. <br/><br/><u><strong>Take Action April 20th.</strong></u><br/>]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2012-02-03T18:37:02-08:00</created_at>
+  <end_at type="datetime">2012-03-17T23:59:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">4999</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">232045</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">1143268</resource_id>
+  <resource_type>User</resource_type>
+  <rsvp_end_at type="datetime">2012-05-17T23:28:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-05-13T19:28:00-07:00</start_at>
+  <state_code></state_code>
+  <title>LDS Author Giveaway Hop - Featuring Books by LDS Authors</title>
+  <updated_at type="datetime">2012-02-03T18:42:37-08:00</updated_at>
+  <user_id type="integer">1143268</user_id>
+  <venue>http://iamareadernotawriter.blogspot.com/2012/02/lds-author-giveaway-hop-featuring-books.html</venue>
+  <image_url>http://photo.goodreads.com/users/1333223207p2/1143268.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/232045</link>
+  <description>
+    <![CDATA[<a rel="nofollow" target="_blank" href="http://iamareadernotawriter.blogspot.com/2012/02/lds-author-giveaway-hop-featuring-books.html"><img src="http://1.bp.blogspot.com/-unT0FcUguSo/Tyxqsemp4XI/AAAAAAAAJn8/qNUBNYgZwts/s1600/LDSHOP.jpg" class="escapedImg"/></a><br/><br/>Announcing the LDS Authors Giveaway Hop<br/><br/>Featuring Books Written by LDS Authors<br/><br/><br/>Hosted by I Am A Reader, Not A Writer &amp; The Book Bug<br/>May 11th to 17th<br/><br/>You need not be an author to participate, any family friendly site is welcome to join the hop and giveaway a book by an LDS author. <br/><br/>With today's announcement of The Whitney Award Finalists and a comment from Lexie at The Book Bug I was motivated to put together an LDS Authors Giveaway Hop.<br/><br/>My hope with this hop is to bring some of the wonderful LDS authors and their fabulous books on to your radar. <br/><br/>You might be surprised by how many popular mainstream books are written by LDS authors. Shannon Hale, Orson Scott Card, Janette Rallison, Brandon Sanderson, Brandon Mull, James Dashner, Ally Condie, Stephenie Meyer, Bree Despain, Jessica Day George, Aprilynne Pike, Kiersten White, Robison Wells, Jason Wright, Heather Dixon, Obert Skye, Richard Paul Evans, Julie Berry, Mette Ivie Harrison, Becca Fitzpatrick, Lisa Mangum, Amber Argyle, Jennifer Laurens, Brodi Ashton... the list could go on and on. <br/><br/>In addition to these well know LDS authors there are dozens of amazing LDS authors who you may not yet have heard of.<br/><br/><a rel="nofollow" target="_blank" href="http://iamareadernotawriter.blogspot.com/2012/02/lds-author-giveaway-hop-featuring-books.html">CLICK HERE To learn more about this hop, sign up to host a giveaway or enter all the giveaways</a>]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2012-02-17T13:06:29-08:00</created_at>
+  <end_at type="datetime">2012-04-12T23:59:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">4998</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">233523</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">1143268</resource_id>
+  <resource_type>User</resource_type>
+  <rsvp_end_at type="datetime">2012-04-12T23:04:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-08T14:04:00-07:00</start_at>
+  <state_code></state_code>
+  <title>Hoppy Easter Eggstravaganza Giveaway Hop</title>
+  <updated_at type="datetime">2012-02-17T13:07:06-08:00</updated_at>
+  <user_id type="integer">1143268</user_id>
+  <venue></venue>
+  <image_url>http://photo.goodreads.com/users/1333223207p2/1143268.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/233523</link>
+  <description>
+    <![CDATA[<a rel="nofollow" target="_blank" href="http://iamareadernotawriter.blogspot.com/2012/01/hoppy-easter-eggstravaganza-giveaway.html"><img src="http://i1228.photobucket.com/albums/ee448/toobusyreading/7942903_s-1-1.jpg" class="escapedImg"/></a><br/><br/><br/>Hoppy Easter Eggstravaganza Giveaway Hop<br/>April 6th to 12th<br/>Hosted by I Am A Reader, Not A Writer &amp; Yara @ Once Upon A Twilight<br/><br/>You must host a giveaway on your site, you are responsible for obtaining a prize for giveaway and taking care of the shipping charges.<br/>You must giveaway something a reader, author or blogger would enjoy.<br/>Your giveaway post must include the hop image &amp; linky (or links to the host's sites if you can't get the linky to work).<br/>Please only 1 mandatory entry - all others must be optional - Keep It Simple! No long lists of things for people to do.<br/>Your post must be live by 12:01 EST on April 6th.<br/>The giveaway must be specifically for this hop.<br/>Your site must be family friendly - no erotica or 18+ sites.<br/><br/>To Sign Up to Host A Giveaway, Learn More or Enter All the Great Giveaways Visit: <a rel="nofollow" target="_blank" href="http://iamareadernotawriter.blogspot.com/2012/01/hoppy-easter-eggstravaganza-giveaway.html">I Am A Reader, Not A Writer</a>]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2012-04-03T12:24:20-07:00</created_at>
+  <end_at type="datetime">2012-04-09T12:19:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">2374</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">285868</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at type="datetime">2012-04-07T13:19:00-07:00</reminder_at>
+  <resource_id type="integer">5208422</resource_id>
+  <resource_type>User</resource_type>
+  <rsvp_end_at type="datetime">2012-04-07T12:19:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-08T13:19:00-07:00</start_at>
+  <state_code></state_code>
+  <title>APRIL 8TH, EASTER SUNDAY EGGSTRAVAGANZA WITH GMTA PUBLISHING</title>
+  <updated_at type="datetime">2012-04-03T12:27:11-07:00</updated_at>
+  <user_id type="integer">5208422</user_id>
+  <venue>AMAZON/KINDLE</venue>
+  <image_url>http://photo.goodreads.com/users/1331272876p2/5208422.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/285868</link>
+  <description>
+    <![CDATA[It's that time of year! Easter once again and Spring is here. Great Minds unfortunately has no Easter Eggs BUT we do have the E-books! This Easter Sunday, why not sign on to some great freebies! YES! To celebrate the release of our 5th novel &quot;Forgotten&quot; by Doug Lucas, we are giving away all prior Great Minds published works for FREE!<br/><br/><img src="http://i1227.photobucket.com/albums/ee435/GreatMindsThinkAloud/Forgottenpost.jpg" alt="GMTA PUBLISHING" width="150" height="214" class="escapedImg"/><br/><br/>Sign in to Amazon on Easter Sunday, April 8th to get the below titles absolutely FREE for one day only!<br/><br/><img src="http://i1227.photobucket.com/albums/ee435/GreatMindsThinkAloud/ConversationsPost.jpg" alt="GMTA PUBLISHING" width="150" height="214" class="escapedImg"/><br/><br/>&quot;CONVERSATIONS WITH A DEAD MAN&quot; BY DOUG LUCAS: <a rel="nofollow" target="_blank" href="http://www.amazon.com/Conversations-With-Dead-Man-ebook/dp/B007029T3K/ref=sr_1_1?ie=UTF8&qid=1333481103&sr=8-1" title="http://www.amazon.com/Conversations-With-Dead-Man-ebook/dp/B007029T3K/ref=sr_1_1?ie=UTF8&qid=1333481103&sr=8-1">http://www.amazon.com/Conversations-With...</a><br/><br/><img src="http://i1227.photobucket.com/albums/ee435/GreatMindsThinkAloud/MountainPost-1.jpg" alt="GMTA PUBLISHING" width="150" height="214" class="escapedImg"/><br/><br/>&quot;THE MAN IN THE MOUNTAIN&quot; BY DOUG LUCAS: <a rel="nofollow" target="_blank" href="http://www.amazon.com/The-Man-Mountain-ebook/dp/B0076CN3BI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1333481138&sr=1-1" title="http://www.amazon.com/The-Man-Mountain-ebook/dp/B0076CN3BI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1333481138&sr=1-1">http://www.amazon.com/The-Man-Mountain-e...</a><br/><br/><img src="http://i1227.photobucket.com/albums/ee435/GreatMindsThinkAloud/TheSpiritArcherPost.jpg" alt="GMTA PUBLISHING" width="150" height="214" class="escapedImg"/><br/><br/>&quot;THE SPIRIT ARCHER&quot; BY MIKE EVERS: <a rel="nofollow" target="_blank" href="http://www.amazon.com/The-Spirit-Archer-ebook/dp/B007L40BH0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1333481159&sr=1-1" title="http://www.amazon.com/The-Spirit-Archer-ebook/dp/B007L40BH0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1333481159&sr=1-1">http://www.amazon.com/The-Spirit-Archer-...</a><br/><br/><img src="http://i1227.photobucket.com/albums/ee435/GreatMindsThinkAloud/SugarlandPost.jpg" alt="GMTA PUBLISHING" width="150" height="214" class="escapedImg"/><br/><br/>&quot;QUEEN EMILY'S ENCHANTED KINGDOM (SUGARLAND) BY LEE-ANN GRAFF-VINSON: <a rel="nofollow" target="_blank" href="http://www.amazon.com/Emilys-Enchanted-Kingdom-Sugarland-ebook/dp/B007NPO3K8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1333481182&sr=1-1" title="http://www.amazon.com/Emilys-Enchanted-Kingdom-Sugarland-ebook/dp/B007NPO3K8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1333481182&sr=1-1">http://www.amazon.com/Emilys-Enchanted-K...</a><br/><br/>All information on these titles can be found on Amazon.com. And don't forget to pick up a copy of Doug Lucas' brand new book &quot;FORGOTTEN&quot;]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2012-03-26T08:35:24-07:00</created_at>
+  <end_at type="datetime">2012-04-17T22:33:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">2004</event_responses_count>
+  <event_type>author_appearance</event_type>
+  <id type="integer">260222</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">1143268</resource_id>
+  <resource_type>User</resource_type>
+  <rsvp_end_at type="datetime">2012-04-17T08:33:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-13T09:33:00-07:00</start_at>
+  <state_code></state_code>
+  <title>Autism Awareness Giveaway Hop</title>
+  <updated_at type="datetime">2012-03-26T08:35:24-07:00</updated_at>
+  <user_id type="integer">1143268</user_id>
+  <venue></venue>
+  <image_url>http://photo.goodreads.com/users/1333223207p2/1143268.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/260222</link>
+  <description>
+    <![CDATA[<a rel="nofollow" target="_blank" href="http://iamareadernotawriter.blogspot.com/2012/01/autism-awareness-hop-sign-ups.html"><img src="http://i1228.photobucket.com/albums/ee448/toobusyreading/autismawareness-1-1.jpg" class="escapedImg"/></a><br/><br/>April is Autism Awareness Month.  To help spread the word about Autism we are hosting a giveaway hop.<br/><br/>To learn more or sign up please visit: <a rel="nofollow" target="_blank" href="http://iamareadernotawriter.blogspot.com/2012/01/autism-awareness-hop-sign-ups.html">Autism Awareness Hop Sign Ups</a>]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address>1200 Atwater Avenue</address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city>Montreal</city>
+  <country_code>CA</country_code>
+  <created_at type="datetime">2012-02-09T16:37:47-08:00</created_at>
+  <end_at type="datetime">2012-04-20T18:00:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">2000</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">232554</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at type="datetime">2012-04-17T16:30:00-07:00</reminder_at>
+  <resource_id type="integer">3111153</resource_id>
+  <resource_type>Author</resource_type>
+  <rsvp_end_at type="datetime">2012-02-16T16:34:00-08:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-20T16:30:00-07:00</start_at>
+  <state_code></state_code>
+  <title>Dialogue Writing Clinic</title>
+  <updated_at type="datetime">2012-02-09T16:37:47-08:00</updated_at>
+  <user_id type="integer">2796203</user_id>
+  <venue>Atwater Library - Montreal</venue>
+  <image_url>http://photo.goodreads.com/authors/1255137528p2/3111153.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/232554</link>
+  <description>
+    <![CDATA[Writing great dialogue<br/>Friday April 20, 4:30 to 6pm, COST: $25<br/><br/>Great dialogue brings life to fiction, but how is it written? How can passages of dialogue feel realistic without being dull, or convey action without seeming forced? Join authors Shawn Klomparens (Jessica Z., Two Years, No Rain) and Catherine McKenzie (Spin, Arranged) for a workshop on crafting tight, narrative-propelling dialogue. Participants are welcomed (but not required) to submit up to five pages via email by March 15 for possible discussion during the session.<br/><br/>Contact catherinemckenzieauthor@gmail.com to register and submit materials.]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address>1628 16th St</address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city>Denver</city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2012-04-01T18:33:22-07:00</created_at>
+  <end_at type="datetime">2012-04-07T21:00:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">2000</event_responses_count>
+  <event_type>author_appearance</event_type>
+  <id type="integer">279549</id>
+  <postal_code>80202</postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at type="datetime">2012-04-06T19:30:00-07:00</reminder_at>
+  <resource_id type="integer">1009462</resource_id>
+  <resource_type>User</resource_type>
+  <rsvp_end_at type="datetime">2012-04-08T18:30:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-07T19:30:00-07:00</start_at>
+  <state_code></state_code>
+  <title>Presentation &amp; Booksigning with Christopher Moore</title>
+  <updated_at type="datetime">2012-04-01T18:33:22-07:00</updated_at>
+  <user_id type="integer">1009462</user_id>
+  <venue>Historic LoDo</venue>
+  <image_url>http://photo.goodreads.com/users/1207260969p2/1009462.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/279549</link>
+  <description>
+    <![CDATA[On April 7, the hilarious Christopher Moore is back in town, appearing LIVE at Tattered Cover with his new masterpiece Sacré Bleu. The &quot;immortal Moore&quot; is the author of eleven novels, including numerous international bestsellers, including Lamb, A Dirty Job, You Suck, Fool, and Bite Me. He will join us to read from and sign Sacré Bleu, a magnificent Comedy d'Art that is part mystery, part history (sort of), part love story, and wholly hilarious, in which a young baker-painter joins the dapper Henri Toulouse-Lautrec on a quest to unravel the mystery behind the supposed &quot;suicide&quot; of Vincent van Gogh.<br/><br/>❝ Christopher Moore is a very sick man, in the very best sense of that word.❞ ~Carl Hiassen <br/><br/>✒ Free numbered tickets for a place in line for the booksigning will be handed out at 6:30 pm. Seating for the presentation prior to the booksigning is limited, and available to ticketed customers only on a first-come, first-served basis. <br/><br/><br/>If you cannot attend the event but would like to purchase a signed copy of Sacré Bleu, please call 303-436-1070 or email books@tatteredcover.com!]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address>Ground Floor, Waltermart North EDSA (Beside Munoz Market)</address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city>Quezon</city>
+  <country_code>PH</country_code>
+  <created_at type="datetime">2012-03-22T21:30:15-07:00</created_at>
+  <end_at type="datetime">2012-04-15T15:30:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">1559</event_responses_count>
+  <event_type>author_appearance</event_type>
+  <id type="integer">252448</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">480</resource_id>
+  <resource_type>Group</resource_type>
+  <rsvp_end_at type="datetime">2012-04-08T12:30:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-15T13:00:00-07:00</start_at>
+  <state_code></state_code>
+  <title>2nd Year Anniversary of TFG (The Filipino Group) in Goodreads: Sunday, April 15, 2012 at 11:00 a.m.</title>
+  <updated_at type="datetime">2012-04-02T16:39:45-07:00</updated_at>
+  <user_id type="integer">2156200</user_id>
+  <venue>Max's Restaurant</venue>
+  <image_url>http://photo.goodreads.com/groups/1323854374p2/480.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/252448</link>
+  <description>
+    <![CDATA[<strong>FINAL! FINAL! FINAL!</strong><br/><br/>1:00 p.m. - Socials<br/>1:30 p.m. - Invocation (Cary)<br/>          - Welcome Remarks (Moderator Jzhun)<br/>          - Introduction to the Guest Author<br/>          - Q&amp;A with Poet Jim Pascual Agustin<br/>2:00 p.m. - Break (socials)<br/>2:15 p.m. - Poetry Reading<br/>            (Please bring your favorite poem:    <br/>             original or by your favorite poet)<br/>             For the original compositions, pls.<br/>             send to Jim 1 week in advance)  <br/>3:15 p.m. - Closing remarks (Moderator Tina)<br/>3:30 p.m. - End (socials)<br/><br/>Emcees: Ella &amp; Moderator Angus<br/><br/>************************************************<br/>ABOUT THE AUTHOR: Jim Pascual Agustin is a poet. He is the author of the recently released poetry books <em>Alien to Any Skin</em> and <em>Baha-Bahagdang Karupukan</em>. Those books are available at any NBS bookstore nationwide. Buy your copies now!!!<br/>************************************************<br/><br/>RSVP not later than April 8 please. <br/><br/>Hope that you can join us in our simple way of celebrating our second year!<br/><br/>Cordially,<br/><br/>The Moderators<br/>(Jzhunagev, K.D., Tina and Angus)]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address>220 Bloor Street West,</address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city>Toronto, Ontario</city>
+  <country_code>CA</country_code>
+  <created_at type="datetime">2012-02-03T19:27:09-08:00</created_at>
+  <end_at type="datetime">2012-10-14T15:00:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">1129</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">232048</id>
+  <postal_code>M5S 1T8</postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">28257</resource_id>
+  <resource_type>Group</resource_type>
+  <rsvp_end_at type="datetime">2012-09-12T20:00:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-10-12T16:00:00-07:00</start_at>
+  <state_code></state_code>
+  <title>ComfyCon 2012</title>
+  <updated_at type="datetime">2012-02-05T13:17:51-08:00</updated_at>
+  <user_id type="integer">846773</user_id>
+  <venue>Intercontinental Toronto Yorkville </venue>
+  <image_url>http://photo.goodreads.com/groups/1262661384p2/28257.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/232048</link>
+  <description>
+    <![CDATA[You are invited to the first live gathering of Comfort Reads members from October 12 to 14, 2012!  Please join us for a fun weekend in Toronto, Ontario, Canada and meet all your comfy buddies in person!  <br/><br/>Registration for ComfyCon 2012 is officially open.  In order to register for this event, you  must go here:<br/><br/><a rel="nofollow" target="_blank" href="http://www.mycomfortreads.com/comfycon-registration/" title="http://www.mycomfortreads.com/comfycon-registration/">http://www.mycomfortreads.com/comfycon-r...</a><br/><br/>If you have any questions, please message me through goodreads or at lee@mycomfortreads.com<br/><br/>I look forward to welcoming you all!]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2012-03-24T20:17:03-07:00</created_at>
+  <end_at type="datetime">2012-04-21T23:00:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">1083</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">256603</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at type="datetime">2012-04-20T20:00:00-07:00</reminder_at>
+  <resource_id type="integer">3391681</resource_id>
+  <resource_type>Author</resource_type>
+  <rsvp_end_at type="datetime">2012-04-21T20:00:00-07:00</rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-21T20:00:00-07:00</start_at>
+  <state_code>FL</state_code>
+  <title>Meet The Tempo characters</title>
+  <updated_at type="datetime">2012-03-24T20:17:03-07:00</updated_at>
+  <user_id type="integer">2408620</user_id>
+  <venue>Online</venue>
+  <image_url>http://photo.goodreads.com/authors/1313766840p2/3391681.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/256603</link>
+  <description>
+    <![CDATA[Ladies and Gents here is your chance to meet the four heroines from The Tempo, children's fantasy novel from the Elemental Symphony series by indie sci-fi/fantasy author Lakisha Spletzer.<br/><br/>The four girls will be dropping by the Indie Author How-to radio show to take your questions and to chat about being in a fantasy series.]]>
+  </description>
+</event>
+
+    <event>
+  <access>public</access>
+  <address></address>
+  <can_invite_flag type="boolean">true</can_invite_flag>
+  <city></city>
+  <country_code>US</country_code>
+  <created_at type="datetime">2010-04-09T12:09:29-07:00</created_at>
+  <end_at type="datetime">2012-04-09T14:05:00-07:00</end_at>
+  <event_attending_count type="integer">0</event_attending_count>
+  <event_responses_count type="integer">1031</event_responses_count>
+  <event_type>other</event_type>
+  <id type="integer">80553</id>
+  <postal_code></postal_code>
+  <public_flag type="integer">1</public_flag>
+  <reminder_at nil="true" type="datetime"></reminder_at>
+  <resource_id type="integer">12880</resource_id>
+  <resource_type>Group</resource_type>
+  <rsvp_end_at nil="true" type="datetime"></rsvp_end_at>
+  <source nil="true"></source>
+  <source_url nil="true"></source_url>
+  <start_at type="datetime">2012-04-09T13:05:00-07:00</start_at>
+  <state_code></state_code>
+  <title>Sshhh&#8230;.That&#8217;s Taboo! Reading Challenge </title>
+  <updated_at type="datetime">2011-05-26T15:53:58-07:00</updated_at>
+  <user_id type="integer">434780</user_id>
+  <venue>Romance Readers Reading Challenges Group</venue>
+  <image_url>http://photo.goodreads.com/groups/1231813272p2/12880.jpg</image_url>
+  <link>http://www.goodreads.com/event/show/80553</link>
+  <description>
+    <![CDATA[Are you intrigued by controversial topics? Do you like to sometimes go beyond what is mainstream? Are you not easily embarrassed or offended? <br/><br/>If so, <strong>Sshhh….That’s Taboo! Reading Challenge</strong> might just be up your alley.<br/><br/>Come check it out. ]]>
+  </description>
+</event>
+
+    </events>
+</GoodreadsResponse>

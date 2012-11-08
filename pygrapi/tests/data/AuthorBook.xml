@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[CL0tx5vHxrTQtzKD4CvJQ]]></key>
+    <method><![CDATA[author_list]]></method>
+  </Request>
+  <author>
+  <id>18541</id>
+  <name><![CDATA[Tim O'Reilly]]></name>
+  <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    
+  <books start="1" end="35" total="35">
+        <book>
+  <id type="integer">104744</id>
+  <isbn>1565927249</isbn>
+  <isbn13>9781565927247</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>
+    <![CDATA[The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/104744.The_Cathedral_the_Bazaar</link>
+  <num_pages>279</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>552</ratings_count>
+  <description>
+    <![CDATA[&quot;This is how we did it.&quot; --Linus Torvalds, creator of the Linux kernel<br/>It all started with a series of odd statistics. The leading challenger to Microsoft's stranglehold on the computer industry is an operating system called Linux, the product of thousands of volunteer programmers who collaborate over the Internet. The software behind a majority of all the world's web sites doesn't come from a big company either, but from a loosely coordinated group of volunteer programmers called the Apache Group. The Internet itself, and much of its core software, was developed through a process of networked collaboration.<br/>The key to these stunning successes is a movement that has come to be called open source, because it depends on the ability of programmers to freely share their program source code so that others can improve it. In 1997, Eric S. Raymond outlined the core principles of this movement in a manifesto called &quot;The Cathedral and the Bazaar,&quot; which was published and freely redistributed over the Internet.<br/>Mr. Raymond's thinking electrified the computer industry. He argues that the development of the Linux operating system by a loose confederation of thousands of programmers--without central project management or control--turns on its head everything we thought we knew about software project management. Internet-enabled collaboration and free information sharing, not monopolistic control, is the key to innovation and product quality.<br/>This idea was interesting to more than programmers and software project leaders. It suggested a whole new way of doing business, and the possibility of unprecedented shifts in the power structures of the computer industry.<br/>The rush to capitalize on the idea of open source started with Netscape's decision to release its flagship Netscape Navigator product under open source licensing terms in early 1998. Before long, Fortune 500 companies like Intel, IBM, and Oracle were joining the party. By August 1999, when the leading Linux distributor, Red Hat Software, made its hugely successful public stock offering, it had become clear that open source was &quot;the next big thing&quot; in the computer industry.<br/>This revolutionary book starts out with &quot;A Brief History of Hackerdom&quot;--the historical roots of the open-source movement--and details the events that led to the recognition of the power of open source. It contains the full text of &quot;The Cathedral &amp; the Bazaar,&quot; updated and expanded for this book, plus Mr. Raymond's other key essays on the social and economic dynamics of open source software development.<br/>Open source is the competitive advantage in the Internet Age. <em>The Cathedral &amp; the Bazaar</em> is a must for anyone who cares about the computer industry or the dynamics of the information economy. Already, billions of dollars have been made and lost based on the ideas in this book. Its conclusions will be studied, debated, and implemented for years to come.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18542</id>
+        <name><![CDATA[Eric S. Raymond]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1265508525p5/18542.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1265508525p2/18542.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18542.Eric_S_Raymond]]></link>
+    <average_rating>3.85</average_rating>
+    <ratings_count>828</ratings_count>
+    <text_reviews_count>69</text_reviews_count>
+  </author>
+  </authors>  <published>1999</published>
+</book>
+
+
+        <book>
+  <id type="integer">6356381</id>
+  <isbn>0596802811</isbn>
+  <isbn13>9780596802813</isbn13>
+  <text_reviews_count type="integer">31</text_reviews_count>
+  <title>
+    <![CDATA[The Twitter Book]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328834986m/6356381.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328834986s/6356381.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6356381-the-twitter-book</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.73</average_rating>
+  <ratings_count>128</ratings_count>
+  <description>
+    <![CDATA[&quot;Media organizations should take note of Twitter's power to quickly reach their target consumers.&quot; --Tim O'Reilly (@timoreilly), in a Los Angeles Times interview, March 2009<br/> This practical guide will teach you everything you need to know to quickly become a Twitter power user. It includes information on the latest third party applications, strategies and tactics for using Twitter's 140-character messages as a serious--and effective--way to boost your business, as well as how to turn Twitter into your personal newspaper, tracking breaking news and learning what matters to you and your friends.<br/> Co-written by Tim O'Reilly and Sarah Milstein, widely followed and highly respected twitterers, the practical information in <em>The Twitter Book</em> is presented in an innovative, visually rich format that's packed with clear explanations and examples of best practices that show Twitter in action, as demonstrated by the work of over 60 twitterers.<br/> This book will help you:<br/><br/>Use Twitter to connect with colleagues, customers, family, and friends Stand out on Twitter Avoid common Twitter gaffes and pitfalls Build a critical professional communications channel with Twitter--and use the best third-party tools that help you manage it. <br/> If you want to know how to use Twitter like a pro, <em>The Twitter Book</em> will quickly get you up to speed.<br/> About the authors:<br/><br/> Tim O Reilly (@timoreilly), founder and CEO of O Reilly Media, has hundreds of thousands of followers on Twitter. Sarah Milstein (@SarahM) frequently writes, speaks and teaches about Twitter; she was the 21st user of Twitter.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+        <book>
+  <id type="integer">172314</id>
+  <isbn>1565922603</isbn>
+  <isbn13>9781565922600</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <title>
+    <![CDATA[UNIX  PowerTools]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/172314.UNIX_PowerTools</link>
+  <num_pages>1122</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>99</ratings_count>
+  <description>
+    <![CDATA[Ideal for UNIX users who hunger for technical -- yet accessible -- information, <em>UNIX Power Tools, 2nd Edition</em>, consists of tips, tricks, concepts, and freeware (CD-ROM included). It also covers add-on utilities and how to take advantage of clever features in the most popular UNIX utilities.<br/>Loaded with even more practical advice about almost every aspect of UNIX, this edition addresses the technology that UNIX users face today, differing from the first edition in a number of important ways.<br/>First, it slants the blend of options and commands more toward the POSIX utilities, including the GNU versions; the <em>bash</em> and <em>tcsh</em> shells have greater coverage, but we've kept the first edition's emphasis on the core concepts of <em>sh</em> and <em>csh</em> that will help you use all UNIX shells; and, Perl is more important than <em>awk</em> these days, so we've de-emphasized awk in this edition.<br/>This is a browser's book...like a magazine that you don't read from start to finish, but leaf through repeatedly until you realize that you've read it all. The book is structured so that it bursts at the seams with cross references. Interesting &quot;sidebars&quot; explore syntax or point out other directions for exploration, including relevant technical details that might not be immediately apparent. You'll find articles abstracted from other O'Reilly books, new information that highlights program &quot;tricks&quot; and &quot;gotchas,&quot; tips posted to the Net over the years, and other accumulated wisdom.<br/>The 53 chapters in this book discuss topics like file management, text editors, shell programming -- even office automation. Overall, there's plenty of material here to satisfy even the most voracious appetites. The bottom line? <em>UNIX Power Tools</em> is loaded with practical advice about almost every aspect of UNIX. It will help you think creatively about UNIX, and will help you get to the point where you can analyze your own problems. Your own solutions won't be far behind.<br/>The CD-ROM includes all of the scripts and aliases from the book, plus <em>perl</em>, GNU <em>emacs</em>, <em>netpbm</em> (graphics manipulation utilities), <em>ispell</em>,<em>screen</em>, the <em>sc</em> spreadsheet, and about 60 other freeware programs. In addition to the source code, all the software is precompiled for Sun4, Digital UNIX, IBM AIX, HP/UX, Red Hat Linux, Solaris, and SCO UNIX.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>49587</id>
+        <name><![CDATA[Jerry Peek]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/49587.Jerry_Peek]]></link>
+    <average_rating>4.05</average_rating>
+    <ratings_count>182</ratings_count>
+    <text_reviews_count>20</text_reviews_count>
+  </author>
+  </authors>  <published>1997</published>
+</book>
+
+
+        <book>
+  <id type="integer">6438581</id>
+  <isbn>0596522304</isbn>
+  <isbn13>9780596522308</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>
+    <![CDATA[Even Faster Web Sites]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328834858m/6438581.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328834858s/6438581.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6438581-even-faster-web-sites</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>56</ratings_count>
+  <description>
+    <![CDATA[Performance is critical to the success of any web site, and yet today's web applications push browsers to their limits with increasing amounts of rich content and heavy use of Ajax. In this book, Steve Souders, web performance evangelist at Google and former Chief Performance Yahoo!, provides valuable techniques to help you optimize your site's performance.<br/> Souders' previous book, the bestselling <em>High Performance Web Sites</em>, shocked the web development world by revealing that 80% of the time it takes for a web page to load is on the client side. In <em>Even Faster Web Sites</em>, Souders and eight expert contributors provide best practices and pragmatic advice for improving your site's performance in three critical categories:<br/><br/><br/><br/><strong>JavaScript</strong>-Get advice for understanding Ajax performance, writing efficient JavaScript, creating responsive applications, loading scripts without blocking other components, and more. <br/><strong>Network</strong>-Learn to share resources across multiple domains, reduce image size without loss of quality, and use chunked encoding to render pages faster. <br/><strong>Browser</strong>-Discover alternatives to iframes, how to simplify CSS selectors, and other techniques. <br/> Speed is essential for today's rich media web sites and Web 2.0 applications. With this book, you'll learn how to shave precious seconds off your sites' load times and make them respond even faster.<br/> This book contains six guest chapters contributed by Dion Almaer, Doug Crockford, Ben Galbraith, Tony Gentilcore, Dylan Schiemann, Stoyan Stefanov, Nicole Sullivan, and Nicholas C. Zakas.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>775693</id>
+        <name><![CDATA[Steve Souders]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/775693.Steve_Souders]]></link>
+    <average_rating>4.17</average_rating>
+    <ratings_count>204</ratings_count>
+    <text_reviews_count>36</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+        <book>
+  <id type="integer">86591</id>
+  <isbn>0596003307</isbn>
+  <isbn13>9780596003302</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>
+    <![CDATA[Unix Power Tools]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328834224m/86591.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328834224s/86591.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/86591.Unix_Power_Tools</link>
+  <num_pages>1160</num_pages>
+  <format>Paperback</format>
+  <edition_information>3rd Edition</edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>38</ratings_count>
+  <description>
+    <![CDATA[With the growing popularity of Linux and the advent of Darwin, Unix has metamorphosed into something new and exciting. No longer perceived as a difficult operating system, more and more users are discovering the advantages of Unix for the first time. But whether you are a newcomer or a Unix power user, you'll find yourself thumbing through the goldmine of information in the new edition of <em>Unix Power Tools</em> to add to your store of knowledge. Want to try something new? Check this book first, and you're sure to find a tip or trick that will prevent you from learning things the hard way.<br/>The latest edition of this best-selling favorite is loaded with advice about almost every aspect of Unix, covering all the new technologies that users need to know. In addition to vital information on Linux, Darwin, and BSD, <em>Unix Power Tools</em> 3rd Edition now offers more coverage of bash, zsh, and other new shells, along with discussions about modern utilities and applications. Several sections focus on security and Internet access. And there is a new chapter on access to Unix from Windows, addressing the heterogeneous nature of systems today. You'll also find expanded coverage of software installation and packaging, as well as basic information on Perl and Python.<br/><em>Unix Power Tools</em> 3rd Edition is a browser's book...like a magazine that you don't read from start to finish, but leaf through repeatedly until you realize that you've read it all. Bursting with cross-references, interesting sidebars explore syntax or point out other directions for exploration, including relevant technical details that might not be immediately apparent. The book includes articles abstracted from other O'Reilly books, new information that highlights program tricks and gotchas, tips posted to the Net over the years, and other accumulated wisdom.<br/>Affectionately referred to by readers as &quot;the&quot; Unix book, UNIX Power Tools provides access to information every Unix user is going to need to know. It will help you think creatively about UNIX, and will help you get to the point where you can analyze your own problems. Your own solutions won't be far behind.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>49586</id>
+        <name><![CDATA[Shelley Powers]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/49586.Shelley_Powers]]></link>
+    <average_rating>3.37</average_rating>
+    <ratings_count>118</ratings_count>
+    <text_reviews_count>27</text_reviews_count>
+  </author>
+  </authors>  <published>2002</published>
+</book>
+
+
+        <book>
+  <id type="integer">53751</id>
+  <isbn>0425097854</isbn>
+  <isbn13>9780425097854</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>
+    <![CDATA[Maker of Dune]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/53751.Maker_of_Dune</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>29</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>58</id>
+        <name><![CDATA[Frank Herbert]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1168661521p5/58.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1168661521p2/58.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+    <average_rating>3.88</average_rating>
+    <ratings_count>296480</ratings_count>
+    <text_reviews_count>7166</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">265506</id>
+  <isbn>1565920902</isbn>
+  <isbn13>9781565920903</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>
+    <![CDATA[Exploring Expect: A Tcl-based Toolkit for Automating Interactive Programs]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328752687m/265506.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328752687s/265506.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/265506.Exploring_Expect</link>
+  <num_pages>604</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>
+    <![CDATA[Expect is quickly becoming a part of every UNIX user's toolbox. It allows you to automate Telnet, FTP, passwd, rlogin, and hundreds of other applications that normally require human interaction. Using Expect to automate these applications will allow you to speed up tasks and, in many cases, solve new problems that you never would have even considered before.<br/>For example, you can use Expect to test interactive programs with no changes to their interfaces. Or wrap interactive programs with Motif-like front-ends to control applications by buttons, scrollbars, and other graphic elements with no recompilation of the original programs. You don't even need the source code! Expect works with remote applications, too. Use it to tie together Internet applications including Telnet, Archie, FTP, Gopher, and Mosaic.<br/>Don Libes is the creator of Expect as well as the author of this book. In <em>Exploring Expect</em>, he provides a comprehensive tutorial on all of Expect's features, allowing you to put it immediately to work on your problems. In a down-to-earth and humorous style, he provides numerous examples of challenging real-world applications and how they can be automated using Expect to save you time and money.<br/>Expect is the first of a new breed of programs based on Tcl, the Tool Command Language that is rocking the computer science community. This book provides an introduction to Tcl and describes how Expect applies Tcl's power to the new field of interaction automation. Whether your interest is in Expect or interaction automation or you simply want to learn about Tcl and see how it has been used in real software, you will find <em>Exploring Expect</em> a treasure trove of easy-to-understand and valuable information.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>155064</id>
+        <name><![CDATA[Don Libes]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/155064.Don_Libes]]></link>
+    <average_rating>4.06</average_rating>
+    <ratings_count>16</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+  </author>
+  </authors>  <published>1994</published>
+</book>
+
+
+        <book>
+  <id type="integer">583674</id>
+  <isbn>0937175226</isbn>
+  <isbn13>9780937175224</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[termcap and terminfo]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328767445m/583674.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328767445s/583674.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/583674.termcap_and_terminfo</link>
+  <num_pages>264</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>1988</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>6</ratings_count>
+  <description>
+    <![CDATA[While termcap and terminfo are no longer as important as they once were, due to the growth of the X terminal market and increased standardization among ASCII terminals, handling different terminal types can still be a headache for system administrators. The termcap and terminfo databases are UNIX's solution to the difficulty of supporting many terminals without writing special drivers for each terminal. Termcap (BSD) and terminfo (System V) describe the features of hundreds of terminals, together with a library of routines that allow programs to use those capabilities.<br/>This book documents hundreds of capabilities and syntax for termcap and terminfo, writing and debugging terminal descriptions, and terminal initialization.<br/>Contents include:<br/><br/>Terminal independence: the need for termcap and terminfo. Reading termcap and terminfo entries. Capability syntax. Initializing the terminal environment. Writing termcap and terminfo entries. Converting between termcap and terminfo. Detailed descriptions of the capabilities. Screen dimensions and cursor movement. Initialization and reset. Special and equivalent terminals. Many useful appendices.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>65081</id>
+        <name><![CDATA[John Strang]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/65081.John_Strang]]></link>
+    <average_rating>3.65</average_rating>
+    <ratings_count>37</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+  </author>
+  </authors>  <published>1988</published>
+</book>
+
+
+        <book>
+  <id type="integer">2918269</id>
+  <isbn>0596527691</isbn>
+  <isbn13>9780596527693</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Web 2.0 Report]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2918269-web-2-0-report</link>
+  <num_pages>101</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.75</average_rating>
+  <ratings_count>4</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>919529</id>
+        <name><![CDATA[John Musser]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/919529.John_Musser]]></link>
+    <average_rating>4.75</average_rating>
+    <ratings_count>4</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+  </authors>  <published>2006</published>
+</book>
+
+
+        <book>
+  <id type="integer">2443857</id>
+  <isbn>156592486X</isbn>
+  <isbn13>9781565924864</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Windows 98 in a Nutshell (In a Nutshell]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328752727m/2443857.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328752727s/2443857.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2443857.Windows_98_in_a_Nutshell_In_a_Nutshell</link>
+  <num_pages>634</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media, Inc.</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.25</average_rating>
+  <ratings_count>4</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published>1999</published>
+</book>
+
+
+        <book>
+  <id type="integer">2581204</id>
+  <isbn>059651056X</isbn>
+  <isbn13>9780596510565</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Craft, Volume 2: Transforming Traditional Crafts]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328834718m/2581204.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328834718s/2581204.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2581204-craft-volume-2</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>3</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>2754028</id>
+        <name><![CDATA[C. Sinclair]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/2754028.C_Sinclair]]></link>
+    <average_rating>4.33</average_rating>
+    <ratings_count>3</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+  </authors>  <published>2007</published>
+</book>
+
+
+        <book>
+  <id type="integer">1551276</id>
+  <isbn>0937175935</isbn>
+  <isbn13>9780937175934</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Managing UUCP and Usenet]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1551276.Managing_UUCP_and_Usenet</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.33</average_rating>
+  <ratings_count>3</ratings_count>
+  <description>
+    <![CDATA[For all its widespread use, UUCP is one of the most difficult UNIX utilities to master. Poor documentation, cryptic messages, and differences between various implementations make setting up UUCP links a nightmare for many a system administrator.<br/>This handbook is meant for system administrators who want to install and manage the UUCP and Usenet software. It covers HoneyDanBer UUCP as well as standard Version 2 UUCP, with special notes on Xenix. As one reader noted over the Net, &quot;Don't even TRY to install UUCP without it!&quot;<br/>Topics covered in <em>Managing UUCP</em> include:<br/><br/>How UUCP works. RS-232 cabling. Talking with modems. Setting up a UUCP link. Security considerations. UUCP administration. Introduction to Usenet. Installing Netnews. Administering Netnews. <br/>The tenth edition of this classic work has been revised and expanded to include descriptions of:<br/><br/>How to use NNTP (Network News Transfer Protocol) to transfer Usenet news over TCP/IP and other high-speed networks. How to get DOS versions of UUCP. How to set up DOS-based laptop computers as traveling UUCP nodes. How the UUCP 'g' protocol works.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published>1990</published>
+</book>
+
+
+        <book>
+  <id type="integer">4260865</id>
+  <isbn>0810462915</isbn>
+  <isbn13>9780810462915</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[UNIX Text Processing]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/4260865-unix-text-processing</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>59930</id>
+        <name><![CDATA[Dale Dougherty]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/59930.Dale_Dougherty]]></link>
+    <average_rating>3.55</average_rating>
+    <ratings_count>83</ratings_count>
+    <text_reviews_count>11</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">408411</id>
+  <isbn>0596009003</isbn>
+  <isbn13>9780596009007</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>
+    <![CDATA[Windows XP in a Nutshell]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328834475m/408411.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328834475s/408411.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/408411.Windows_XP_in_a_Nutshell</link>
+  <num_pages>688</num_pages>
+  <format>Paperback</format>
+  <edition_information>Second Edition</edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.33</average_rating>
+  <ratings_count>3</ratings_count>
+  <description>
+    <![CDATA[<em>Windows XP in a Nutshell</em>, Second Edition documents everything there is to know about the world's most widely used operating system. Updated to include information on Service Pack 2 (SP2), this compact guide is the ultimate resource for IT professionals and Windows XP power users everywhere.<br/>Written in O'Reilly's time-tested in a Nutshell format, <em>Windows XP in a Nutshell</em>, Second Edition cuts through the hype and delivers practical details in a no-nonsense manner. At the heart of the book is an invaluable 200-plus-page section titled Windows XP Application and Tools. In it, readers will find:<br/><br/>A list of available commands and utilities, including Start Menu accessories, command prompt tools, and hidden system administration utilities <br/>A Task and Setting Index for quick access to hundreds of XP settings <br/>A complete reference to XP's command prompt, including advanced commands and scripting features <br/><br/><em>Windows XP in a Nutshell</em>, Second Edition also includes a primer on files, folders, and windows; control panels and built-in applications; how to set up a PC for Internet use; and the standard Windows rituals of troubleshooting, installation, and upgrading.<br/>And, of course, this greatly expanded second edition also includes all the need-to-know details about the security technologies featured in SP 2, so you can better defend yourself against viruses, worms, and hackers. Readers even receive guidelines and instructions for installing SP2 on their PC, or across a network of computers.<br/>With its wealth of tips, careful instruction, and expert advice, this must-have desktop reference is dedicated to making your time at the computer safer, easier, and more fun.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>231416</id>
+        <name><![CDATA[David A. Karp]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/231416.David_A_Karp]]></link>
+    <average_rating>3.62</average_rating>
+    <ratings_count>154</ratings_count>
+    <text_reviews_count>31</text_reviews_count>
+  </author>
+  </authors>  <published>2005</published>
+</book>
+
+
+        <book>
+  <id type="integer">8140015</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Android Application Development]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/8140015-android-application-development</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>719968</id>
+        <name><![CDATA[Rick Rogers]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/719968.Rick_Rogers]]></link>
+    <average_rating>3.76</average_rating>
+    <ratings_count>41</ratings_count>
+    <text_reviews_count>10</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">2218654</id>
+  <isbn>1565920031</isbn>
+  <isbn13>9781565920033</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Volume 4: X Toolkit Intrinsics Programming Manual: Standard Edition]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2218654.Volume_4</link>
+  <num_pages>567</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>1992</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>
+    <![CDATA[Volume 4 is a complete guide to programming with the X Toolkit Intrinsics, the library of C language routines that facilitates the design of user interfaces with reusable components called widgets. It provides concepts and examples that show how to use the various X Toolkit routines. The first few chapters are devoted to using widgets; the remainder of the book covers the more complex task of writing new widgets.<br/>Volume 4 is available in two editions. The <em>Standard Edition</em> uses Athena widgets in examples for X11 Release 5 to demonstrate how to use existing widgets, while still providing a good introduction to programming with any widget set based on Xt.<br/>Volume 4 includes: <br/>Introduction to the X Window System. Building applications with widgets. Constructing a bitmap editor with widgets. An overview of each widget in the widget set. Basic widget methods. Events, translations, and accelerators. Event handlers, timeouts, and work procedures. Resource management and type conversion. Selections and window manager interaction. Geometry management. Menus, gadgets, and cascaded pop-ups. Miscellaneous techniques. Comparison of Athena, OSF/Motif, and AT&amp;T OPEN LOOK widgets. <br/>This book is designed to be used with Volume 5, <em>X Toolkit Intrinsics Reference Manual</em>, which provides reference pages for each of the Xt functions, the widget classes defined by Xt, and the Athena widget set.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>100491</id>
+        <name><![CDATA[Adrian Nye]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/100491.Adrian_Nye]]></link>
+    <average_rating>3.36</average_rating>
+    <ratings_count>14</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+  </authors>  <published>1992</published>
+</book>
+
+
+        <book>
+  <id type="integer">7634612</id>
+  <isbn>1565927214</isbn>
+  <isbn13>9781565927216</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[MCSE: The Core Exams in a Nutshell: a desktop quick reference]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/7634612-mcse</link>
+  <num_pages>484</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>
+    <![CDATA[<em>MCSE: The Core Exams in a Nutshell</em> Second Edition, is the long-awaited update to the bestselling first edition. The second edition completely updates the NT exams and the new Windows 98 exam and covers the new adaptive tests. This dense and tightly written book is a must-buy in order to be well prepared for the exams.<br/>Microsoft's MCSE (Microsoft Certified Systems Engineer) program is a rigorous testing and certification program for Windows NT system and network administrators. To achieve certification, one must pass four required exams and two elective exams. Close to twenty potential elective exams exist, although only nine of them are current electives covering the most recent version of a given product. Microsoft also has the MCSE+Internet certification, which requires passing seven required exams and two elective exams. There are four current elective exams to choose from to attain this certification.<br/><em>MCSE: The Core Exams in a Nutshell,</em> Second Edition, is a comprehensive study guide that covers the required exams for the MCSE certification. The companion book, <em>MCSE: The Electives in a Nutshell,</em> covers the most important and popular elective exams for the MCSE certification as well as the other required and elective exams for the MCSE+Internet certification.<br/>The required exams covered in this book are: <br/>Networking Essentials Windows NT Workstation Windows NT Server Windows 98 (you must choose either the NT Workstation or Windows 98 exam) <br/>Each chapter in the book covers one exam. It includes:<br/><br/>A summary of the key areas covered by the exam A description of the format and difficulty of each exam and tips for passing it Definitions of key terms Sample test questions and answers, including multiple tests to prepare you for the new adaptive tests, which have proven to be more challenging to take<br/><br/><em>MCSE: The Core Exams in a Nutshell,</em> 2nd Edition, is an updated edition of the bestselling first edition. It is a detailed quick reference for administrators with Windows NT experience or experience administering a different platform, such as UNIX or NetWare, who want to learn what is necessary to pass the required exam portion of the MCSE certification.<br/>While no book is a substitute for real-world experience, this book will help you codify your knowledge and prepare for the exams. Any administrator who is serious about passing the exams required exams for the MCSE certification will find this book an invaluable tool.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>334022</id>
+        <name><![CDATA[Michael Moncur]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/334022.Michael_Moncur]]></link>
+    <average_rating>3.04</average_rating>
+    <ratings_count>25</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+  </author>
+  </authors>  <published>2000</published>
+</book>
+
+
+        <book>
+  <id type="integer">6060251</id>
+  <isbn>1565920147</isbn>
+  <isbn13>9781565920149</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Volume 3: X Window System User's Guide: Standard Edition]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6060251-volume-3</link>
+  <num_pages>836</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>
+    <![CDATA[The <em>X Window System User's Guide</em> orients the new user to window system concepts and provides detailed tutorials for many client programs, including the <em>xterm</em> terminal emulator and window managers. Building on this basic knowledge, later chapters explain how to customize the X environment and provide sample configurations.<br/>This popular manual is available in two editions, one for users of the MIT software, one for users of Motif. The <em>Standard Edition</em> uses the <em>twm</em> manager in most examples and illustrations. Revised and updated for X11 Release 5.<br/>Contents include: - Starting the system and opening windows. - Using the <em>xterm</em> terminal emulator and window managers. - Most standard release clients, including programs for graphics, printing, font manipulation, window/display information, removing windows, as well as several &quot;desktop&quot; utilities. - Customizing the window manager, keyboard, display, and certain basic features of any client program. - Using and customizing the <em>mwm</em> window manager, for those using the OSF/Motif graphical user interface. - System administration tasks, including managing fonts, starting X automatically, and using the display manager, <em>xdm</em>, to run X on a single or multiple display.<br/>New material covered in this fourth edition includes: - Overview of the X Color Management System (Xcms) - Creating your own Xcms color database - Tutorials for two &quot;color editors&quot;: <em>xcoloredit</em> and <em>xtici</em> - Using the X font server - Tutorial for <em>editres</em>, a resource editor - Extensive coverage of the new implementations of bitmap and <em>xmag</em> - Overview of internationalization features]]>
+  </description>
+
+<authors>
+    <author>
+    <id>389258</id>
+        <name><![CDATA[Valerie Quercia]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/389258.Valerie_Quercia]]></link>
+    <average_rating>3.33</average_rating>
+    <ratings_count>12</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+  </author>
+  </authors>  <published>1994</published>
+</book>
+
+
+        <book>
+  <id type="integer">386830</id>
+  <isbn>0937175838</isbn>
+  <isbn13>9780937175835</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Windows System Administrator's Guide, Vol 8]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328767449m/386830.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328767449s/386830.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/386830.X_Windows_System_Administrator_s_Guide_Vol_8</link>
+  <num_pages>370</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1992</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>
+    <![CDATA[As X moves out of the hacker's domain and into the &quot;real world,&quot; users can't be expected to master all the ins and outs of setting up and administering their own X software. That will increasingly become the domain of system administrators. Even for experienced system administrators, X raises many issues, both because of subtle changes in the standard UNIX way of doing things and because X blurs the boundaries between different platforms. Under X, users can run applications across the network on systems with different resources (including fonts, colors, and screen size). Many of these issues are poorly understood, and the technology for dealing with them is in rapid flux.<br/>This book is the first and only book devoted to the issues of system administration for X and X-based networks, written not just for UNIX system administrators but for anyone faced with the job of administering X (including those running X on stand-alone workstations). The book includes: <br/>An overview of X that focuses on issues that affect the system administrator's job. Information on obtaining, compiling, and installing the X software, including a discussion of the trade-offs between vendor-supplied and the free MIT versions of X. How to set up <em>xdm</em>, the X display manager, which takes the place of the login program under X and can be used to create a customized turnkey X session for each user. How to set up user accounts under X (includes a comparison of the familiar shell setup files and programs to the new mechanisms provided by X). Issues involved in making X more secure. X's security features are not strong, but an understanding of what features are available can be very important, since X makes it possible for users to intrude on each other in new and sometimes unexpected ways. How fonts are used by X, including a description of the font server. A discussion of the issues raised by running X on heterogenous networks. How colors are managed under X and how to get the same colors across multiple devices with different hardware characteristics. The administration issues involved in setting up and managing an X terminal. How to use PC and Mac X servers to maximize reuse of existing hardware and convert outdated hardware into X terminals. How to obtain and install additional public domain software and patches for X. Covers features new in R5, including the font server and Xcms.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>219895</id>
+        <name><![CDATA[Linda Mui]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/219895.Linda_Mui]]></link>
+    <average_rating>3.94</average_rating>
+    <ratings_count>86</ratings_count>
+    <text_reviews_count>4</text_reviews_count>
+  </author>
+  </authors>  <published>1992</published>
+</book>
+
+
+        <book>
+  <id type="integer">1305154</id>
+  <isbn>1565920155</isbn>
+  <isbn13>9781565920156</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Users Guide Motif R5: Motif Edition]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1305154.X_Users_Guide_Motif_R5</link>
+  <num_pages>955</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>
+    <![CDATA[The <em>X Window System User's Guide, Motif Edition,</em> orients the new user to window system concepts and provides detailed tutorials for many client programs, including the <em>xterm</em> terminal emulator and the window manager. Building on this basic knowledge, later chapters explain how to customize the X environment and provide sample configurations.<br/>This alternative edition of the <em>User's Guide</em> highlights the Motif window manager for users of the Motif graphical user interface. Revised for Motif 1.2 and X11 Release 5.<br/>Topics include:<br/><br/>Starting the system and opening windows Using the <em>xterm</em> terminal emulator and window managers Most standard release clients, including programs for graphics, printing, font manipulation, window/display information, removing windows, as well as several &quot;desktop&quot; utilities Customizing the window manager, keyboard, display, and certain basic features of any client program Using and customizing the <em>mwm</em> window manager, for those using theOSF/Motif graphical interface System administration tasks, such as managing fonts, starting X automatically, and using the display manager, <em>xdm</em>, to run X on single or multiple displays<br/><br/>Material covered in this second edition includes:<br/><br/>Overview of the X Color Management System (Xcms) Creating your own Xcms color database Tutorials for two &quot;color editors&quot;: <em>xcoloredit</em> and <em>xtici</em><br/> Using the X font server Tutorial for <em>editres</em>, a resource editor Extensive coverage of the new implementations of bitmap and <em>xmag</em><br/> Overview of internationalization features Features common to Motif 1.2 applications: tear-off menus and drag-and-drop]]>
+  </description>
+
+<authors>
+    <author>
+    <id>389258</id>
+        <name><![CDATA[Valerie Quercia]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/389258.Valerie_Quercia]]></link>
+    <average_rating>3.33</average_rating>
+    <ratings_count>12</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+  </author>
+  </authors>  <published>1994</published>
+</book>
+
+
+        <book>
+  <id type="integer">2218653</id>
+  <isbn>1565920139</isbn>
+  <isbn13>9781565920132</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Toolkit Intrinsics Prog  Vol 4M: Motif Edition]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1328752684m/2218653.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1328752684s/2218653.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/2218653.X_Toolkit_Intrinsics_Prog_Vol_4M</link>
+  <num_pages>712</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>1992</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>
+    <![CDATA[Volume 4 is a complete guide to programming with the X Toolkit Intrinsics, the library of C language routines that facilitates the design of user interfaces with reusable components called widgets. It provides concepts and examples that show how to use the various X Toolkit routines. The first few chapters are devoted to using widgets; the remainder of the book covers the more complex task of writing new widgets.<br/>Uses the Motif 1.2 widget set in examples and covers X11 Release 5.<br/>Volume 4 includes: <br/>Introduction to the X Window System. Building applications with widgets. Constructing a bitmap editor with widgets. An overview of each widget in the widget set. Basic widget methods./li&gt; <br/>Events, translations, and accelerators. Event handlers, timeouts, and work procedures. Resource management and type conversion. Selections and window manager interaction. Geometry management. Menus, gadgets, and cascaded pop-ups. Miscellaneous techniques. Comparison of Athena, OSF/Motif, and AT&amp;T OPEN LOOK widgets.<br/><br/>This book is designed to be used with Volume 5, <em>X Toolkit Intrinsics Reference Manual</em>, which provides reference pages for each of the Xt functions, the widget classes defined by Xt, and the Athena widget set.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>100491</id>
+        <name><![CDATA[Adrian Nye]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/100491.Adrian_Nye]]></link>
+    <average_rating>3.36</average_rating>
+    <ratings_count>14</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+  </authors>  <published>1992</published>
+</book>
+
+
+        <book>
+  <id type="integer">9971317</id>
+  <isbn>1565920465</isbn>
+  <isbn13>9781565920460</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[!%@:: A Directory of Electronic Mail Addressing & Networks]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/9971317</link>
+  <num_pages>662</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>1.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>
+    <![CDATA[These days, it's a rare person who hasn't heard of the Internet, the global network based on the TCP/IP networking protocols. The Internet offers worldwide services such as electronic mail, Usenet news, file transfer via FTP, remote login to thousands of databases and collections of data, and innovative search services like WAIS, Gopher, and the World Wide Web.<br/>Unlike other networks, though, the Internet is not managed by a single organization, with a single access point and a single set of rules. It is truly a &quot;network of networks&quot; made up of hundreds of cooperating organizations. This is the only up-to-date directory that charts the networks that make up the Internet, provides contact names and addresses, and describes the services each network provides.<br/>It includes all of the major Internet-based networks, as well as various commercial networks such as CompuServe, Delphi, and America Online that are &quot;gatewayed&quot; to the Internet for transfer of electronic mail and other services. If you want to connect to the Internet or are already connected but want concise, up-to-date information on many of the world's networks, check out this book. Topics covered include: <br/>An introduction to email for beginners. For over 190 major networks: a description of the network, the services it provides, and the format of the email addresses needed to reach users on that network. Index to networks by network name, country or area name, and country code. Index to second and third level domains and many sites within each network. This is the fourth edition of this directory, now in a simplified format designed to allow more frequent updates.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>666910</id>
+        <name><![CDATA[Donnalyn Frey]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/666910.Donnalyn_Frey]]></link>
+    <average_rating>1.00</average_rating>
+    <ratings_count>1</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+  </authors>  <published>1994</published>
+</book>
+
+
+        <book>
+  <id type="integer">3821714</id>
+  <isbn>0937175242</isbn>
+  <isbn13>9780937175248</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Window System in a Nutshell]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/3821714-x-window-system-in-a-nutshell</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">13214782</id>
+  <isbn>0596519443</isbn>
+  <isbn13>9780596519445</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[S3 and Ec2 Cookbook]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/13214782-s3-and-ec2-cookbook</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">1305153</id>
+  <isbn>0937175366</isbn>
+  <isbn13>9780937175361</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Window Sys Users GD]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1305153.X_Window_Sys_Users_GD</link>
+  <num_pages>567</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1989</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published>1989</published>
+</book>
+
+
+        <book>
+  <id type="integer">1071226</id>
+  <isbn>0937175358</isbn>
+  <isbn13>9780937175354</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Toolkit Intrinsics Reference Manual]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1071226.X_Toolkit_Intrinsics_Reference_Manual</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Orient Book Distribution</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1920</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published>1920</published>
+</book>
+
+
+        <book>
+  <id type="integer">13214293</id>
+  <isbn>0596003331</isbn>
+  <isbn13>9780596003333</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[The .Net CD Bookshelf]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/13214293-the-net-cd-bookshelf</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">10494193</id>
+  <isbn>1177114879</isbn>
+  <isbn13>9781177114875</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Toolkit Intrinsics Reference Manual: For Version 11 of the X Window System]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/10494193-x-toolkit-intrinsics-reference-manual</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>18541</id>
+        <name><![CDATA[Tim O'Reilly]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p5/18541.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1199698411p2/18541.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+    <average_rating>3.93</average_rating>
+    <ratings_count>455</ratings_count>
+    <text_reviews_count>73</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">800762</id>
+  <isbn>1565920171</isbn>
+  <isbn13>9781565920170</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[The X Window System in a Nutshell]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/800762.The_X_Window_System_in_a_Nutshell</link>
+  <num_pages>424</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>1992</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[Once programmers have mastered the concepts behind X and learned how to program in Xlib and Xt there is still a mass of details to remember.&quot;The X Window System in a Nutshell fills this gap. Experienced X programmers can use this single-volume desktop companion for most common questions, keeping the full X Window System series of manuals for detailed reference.&quot;X in a Nutshell contains essential information in a boiled-down, quick-reference format that makes it easy to find the answers needed most often:<br/>Command line options and resources for the standard MIT X clients.Calling sequence for all Xlib and Xt functions and macros.Detailed description of structures, enums, and other X data types used as arguments or return values in Xlib or Xt functions.Description of the code inside a basic widget.Quick reference to the event structures.Font name syntax, color names, resource file and translations table syntax, and cursors.<br/>This book has been updated to cover R5, but is still useful for R4. The descriptions of the functions have been expanded and clarified, with improved cross-referencing to important related functions. Includes material on Xcms and the internationalization features of R5.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>59929</id>
+        <name><![CDATA[Daniel Gilly]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/59929.Daniel_Gilly]]></link>
+    <average_rating>3.78</average_rating>
+    <ratings_count>41</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+  </author>
+  </authors>  <published>1992</published>
+</book>
+
+
+        <book>
+  <id type="integer">1477429</id>
+  <isbn>1565921534</isbn>
+  <isbn13>9781565921535</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Using & Managing UUCP]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1477429.Using_Managing_UUCP</link>
+  <num_pages>424</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[UUCP, a UNIX program with a long history, remains interesting even today because it is a simple way to share resources and transfer files from one computer to another. It runs over dial-up lines with a minimum of overhead. UUCP became popular because of its use by the Usenet, but it remains popular today because it works well on small systems with limited resources. The proliferation of PC-sized machines in small offices and homes, especially those that run the Linux operating system, has caused a resurgence of interest in UUCP.<br/>This book combines material about UUCP formerly contained in two other O'Reilly &amp; Associates books, <em>Using UUCP and Usenet</em> and <em>Managing UUCP and Usenet</em>. UUCP and Usenet are sufficiently separated now to make it inefficient to discuss them both in the same book. On the other hand, it now makes sense to combine information about using and managing UUCP in one volume, because on PC-sized systems, the user and the manager of UUCP are likely to be the same person. With this book, everything you need to know about UUCP is in one volume.<br/><em>Using &amp; Managing UUCP</em> contains up-to-date information about HoneyDanBer UUCP (officially called Basic Networking Utilities or BNU). It also contains product-specific information about the UUCP implementations of the major UNIX vendors. More important, <em>Using &amp; Managing UUCP</em> covers Taylor UUCP, a new implementation that ships with Linux distributions. So this book is of special importance to the growing number of individuals running Linux on their home or office computers.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>691747</id>
+        <name><![CDATA[Ed Ravin]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/691747.Ed_Ravin]]></link>
+    <average_rating>0.0</average_rating>
+    <ratings_count>0</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+  </authors>  <published>1996</published>
+</book>
+
+
+        <book>
+  <id type="integer">1477431</id>
+  <isbn>0937175218</isbn>
+  <isbn13>9780937175217</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[DOS Meets Unix: A Departmental Computing Perspective]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1477431.DOS_Meets_Unix</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>59930</id>
+        <name><![CDATA[Dale Dougherty]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/59930.Dale_Dougherty]]></link>
+    <average_rating>3.55</average_rating>
+    <ratings_count>83</ratings_count>
+    <text_reviews_count>11</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">3236475</id>
+  <isbn>0937175560</isbn>
+  <isbn13>9780937175569</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Toolkit Intrinsics Programming Manual: Standard Ed., 4th Ed.]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/3236475-x-toolkit-intrinsics-programming-manual</link>
+  <num_pages>776</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>100491</id>
+        <name><![CDATA[Adrian Nye]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/100491.Adrian_Nye]]></link>
+    <average_rating>3.36</average_rating>
+    <ratings_count>14</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+  </authors>  <published>1990</published>
+</book>
+
+
+        <book>
+  <id type="integer">6125713</id>
+  <isbn>0937175099</isbn>
+  <isbn13>9780937175095</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[Managing UUCP and Usenet]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6125713-managing-uucp-and-usenet</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>2794155</id>
+        <name><![CDATA[Grace Todino]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/2794155.Grace_Todino]]></link>
+    <average_rating>3.40</average_rating>
+    <ratings_count>30</ratings_count>
+    <text_reviews_count>3</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">3374466</id>
+  <isbn>0937175617</isbn>
+  <isbn13>9780937175613</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Window System User's Guide]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/3374466-x-window-system-user-s-guide</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>389258</id>
+        <name><![CDATA[Valerie Quercia]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/389258.Valerie_Quercia]]></link>
+    <average_rating>3.33</average_rating>
+    <ratings_count>12</ratings_count>
+    <text_reviews_count>1</text_reviews_count>
+  </author>
+  </authors>  <published></published>
+</book>
+
+
+        <book>
+  <id type="integer">414494</id>
+  <isbn>0937175625</isbn>
+  <isbn13>9780937175620</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>
+    <![CDATA[X Toolkit Intrinsics Programming Manual]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/414494.X_Toolkit_Intrinsics_Programming_Manual</link>
+  <num_pages>632</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>
+    <![CDATA[]]>
+  </description>
+
+<authors>
+    <author>
+    <id>100491</id>
+        <name><![CDATA[Adrian Nye]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/100491.Adrian_Nye]]></link>
+    <average_rating>3.36</average_rating>
+    <ratings_count>14</ratings_count>
+    <text_reviews_count>0</text_reviews_count>
+  </author>
+  </authors>  <published>1990</published>
+</book>
+
+
+      </books>
+</author>
+</GoodreadsResponse>

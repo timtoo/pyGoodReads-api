@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[developer key here]]></key>
+    <method><![CDATA[owned_books_user]]></method>
+  </Request>
+  <owned_books>
+
+<owned_book>
+  <comments_count type="integer">0</comments_count>
+  <current_owner_id type="integer">3882378</current_owner_id>
+  <id type="integer">6233813</id>
+  <original_purchase_date nil="true" type="datetime"></original_purchase_date>
+  <original_purchase_location></original_purchase_location>
+  <condition>unspecified</condition>
+  <swappable>false</swappable>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/6233813</link>
+<book>
+  <id type="integer">9655590</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>
+    <![CDATA[Descent into Hell]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/9655590-descent-into-hell</link>
+  <num_pages>222</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Wm. B. Eerdmans Publishing Co.</publisher>
+  <publication_day></publication_day>
+  <publication_year>1977</publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>359</ratings_count>
+  <description>
+    <![CDATA[Alternative cover to ISBN 0802812201.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>36289</id>
+        <name><![CDATA[Charles Williams]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1217390107p5/36289.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1217390107p2/36289.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/36289.Charles_Williams]]></link>
+    <average_rating>3.96</average_rating>
+    <ratings_count>2149</ratings_count>
+    <text_reviews_count>280</text_reviews_count>
+  </author>
+  </authors>  <published>1977</published>
+</book>
+
+<review>
+  <id>107717412</id>
+        <rating>5</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+              <shelf name="5" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jun 18 16:01:12 -0700 2010</date_added>
+  <date_updated>Sun Apr 01 16:03:23 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[]]>
+      </body>
+  <comments_count>0</comments_count>
+
+  <url><![CDATA[http://www.goodreads.com/review/show/107717412]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/107717412]]></link>
+  <owned>1</owned>
+</review>
+</owned_book>
+
+
+
+<owned_book>
+  <comments_count type="integer">0</comments_count>
+  <current_owner_id type="integer">3882378</current_owner_id>
+  <id type="integer">6233832</id>
+  <original_purchase_date nil="true" type="datetime"></original_purchase_date>
+  <original_purchase_location></original_purchase_location>
+  <condition>unspecified</condition>
+  <swappable>false</swappable>
+  <traded_count>0</traded_count>
+  <link>http://www.goodreads.com/owned_books/6233832</link>
+<book>
+  <id type="integer">34053</id>
+  <isbn>0517266555</isbn>
+  <isbn13>9780517266557</isbn13>
+  <text_reviews_count type="integer">316</text_reviews_count>
+  <title>
+    <![CDATA[Just So Stories]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/34053.Just_So_Stories</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Gramercy</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>9055</ratings_count>
+  <description>
+    <![CDATA[Kipling's own drawings, with their long, funny captions, illustrate his hilarious explanations of How the Camel Got His Hump, How the Rhinoceros Got His Skin, How the Armadillo Happened, and other animal How's. He began inventing these stories in his American wife's hometown of Brattleboro, Vermont, to amuse his eldest daughter--and they have served ever since as a source of laughter for children everywhere.]]>
+  </description>
+
+<authors>
+    <author>
+    <id>6989</id>
+        <name><![CDATA[Rudyard Kipling]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1183237590p5/6989.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1183237590p2/6989.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/6989.Rudyard_Kipling]]></link>
+    <average_rating>3.86</average_rating>
+    <ratings_count>58998</ratings_count>
+    <text_reviews_count>2790</text_reviews_count>
+  </author>
+  </authors>  <published>2003</published>
+</book>
+
+<review>
+  <id>107621863</id>
+        <rating>5</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+              <shelf name="5" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 17 21:41:38 -0700 2010</date_added>
+  <date_updated>Sun Apr 01 16:05:57 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[]]>
+      </body>
+  <comments_count>0</comments_count>
+
+  <url><![CDATA[http://www.goodreads.com/review/show/107621863]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/107621863]]></link>
+  <owned>1</owned>
+</review>
+</owned_book>
+
+
+  </owned_books>
+</GoodreadsResponse>

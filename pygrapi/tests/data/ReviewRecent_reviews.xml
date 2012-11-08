@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[CL0tx5vHxrTQtzKD4CvJQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>306886762</id>
+      <user>
+  <id>3055007</id>
+  <name><![CDATA[Shweta's Book Journal]]></name>
+  <location><![CDATA[India]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/3055007-shweta-s-book-journal]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1325829671p3/3055007.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1325829671p2/3055007.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">74340</id>
+  <isbn>0553250426</isbn>
+  <isbn13>9780553250428</isbn13>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <title>
+    <![CDATA[The Clan of the Cave Bear (Earth's Children, #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1327172222m/74340.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1327172222s/74340.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/74340.The_Clan_of_the_Cave_Bear</link>
+  <num_pages>495</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Bantam</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>529</ratings_count>
+
+<authors>
+    <author>
+    <id>861</id>
+        <name><![CDATA[Jean M. Auel]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1300759227p5/861.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1300759227p2/861.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/861.Jean_M_Auel]]></link>
+    <average_rating>3.80</average_rating>
+    <ratings_count>129586</ratings_count>
+    <text_reviews_count>6454</text_reviews_count>
+  </author>
+  </authors>  <published>1980</published>
+</book>
+
+
+      <rating>4</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+              <shelf name="prehistoric" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:03:08 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:03:54 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[An earthquake of tremendous impact miraculously spares a little girl aged around 5 years, as the sole survivor of her tribe. Alone and hungry, with no perception of the loss she has incurred , travels through the  thick forests only to be attacked by a cave lion that leaves her half dead .It is in t...
+              <a href="http://www.goodreads.com/review/show/306886762">more...</a>
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306886762]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306886762]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306886508</id>
+      <user>
+  <id>7643291</id>
+  <name><![CDATA[Jc]]></name>
+  <location><![CDATA[Houston, TX]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/7643291-jc]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">391794</id>
+  <isbn>0151958602</isbn>
+  <isbn13>9780151958603</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>
+    <![CDATA[What Became of Jane Austen? And Other Questions]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1263277969m/391794.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1263277969s/391794.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/391794.What_Became_of_Jane_Austen_And_Other_Questions</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>14</ratings_count>
+
+<authors>
+    <author>
+    <id>13078</id>
+        <name><![CDATA[Kingsley Amis]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1206565493p5/13078.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1206565493p2/13078.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/13078.Kingsley_Amis]]></link>
+    <average_rating>3.67</average_rating>
+    <ratings_count>8729</ratings_count>
+    <text_reviews_count>1005</text_reviews_count>
+  </author>
+  </authors>  <published>1970</published>
+</book>
+
+
+      <rating>4</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:02:36 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:02:59 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Damn good set of essays.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306886508]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306886508]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306886301</id>
+      <user>
+  <id>7662927</id>
+  <name><![CDATA[Julia]]></name>
+  <location><![CDATA[Cedar Falls, IA]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/7662927-julia]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1332797076p3/7662927.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1332797076p2/7662927.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">3521419</id>
+  <isbn>0307408574</isbn>
+  <isbn13>9780307408570</isbn13>
+  <text_reviews_count type="integer">566</text_reviews_count>
+  <title>
+    <![CDATA[Time of My Life]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1320424527m/3521419.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1320424527s/3521419.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/3521419-time-of-my-life</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Crown Publishing Group</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2693</ratings_count>
+
+<authors>
+    <author>
+    <id>344525</id>
+        <name><![CDATA[Allison Winn Scotch]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1332868642p5/344525.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1332868642p2/344525.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/344525.Allison_Winn_Scotch]]></link>
+    <average_rating>3.43</average_rating>
+    <ratings_count>4821</ratings_count>
+    <text_reviews_count>1010</text_reviews_count>
+  </author>
+  </authors>  <published>2008</published>
+</book>
+
+
+      <rating>4</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:02:09 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:02:33 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Fun, breezy, light.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306886301]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306886301]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306886014</id>
+      <user>
+  <id>5363994</id>
+  <name><![CDATA[James]]></name>
+  <location><![CDATA[Memphis, TN]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/5363994-james-crawford]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1304383381p3/5363994.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1304383381p2/5363994.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">1137215</id>
+  <isbn>0765318415</isbn>
+  <isbn13>9780765318411</isbn13>
+  <text_reviews_count type="integer">1704</text_reviews_count>
+  <title>
+    <![CDATA[Boneshaker (The Clockwork Century, #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1312047238m/1137215.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1312047238s/1137215.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/1137215.Boneshaker</link>
+  <num_pages>416</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Tor Books</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>8026</ratings_count>
+
+<authors>
+    <author>
+    <id>221253</id>
+        <name><![CDATA[Cherie Priest]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1263959704p5/221253.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1263959704p2/221253.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/221253.Cherie_Priest]]></link>
+    <average_rating>3.69</average_rating>
+    <ratings_count>16592</ratings_count>
+    <text_reviews_count>3470</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+      <rating>2</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 10 00:00:00 -0800 2012</read_at>
+  <date_added>Wed Apr 04 22:01:35 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:03:08 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[I really wanted to like this book. Zombies, pirates and a Mad Doctor how could this book not be exciting. Like always let’s start off with what I liked about Boneshaker. I absolutely loved the idea a toxic volcanic gas creating zombies that are now walled into a city and the supporting characters we...
+              <a href="http://www.goodreads.com/review/show/306886014">more...</a>
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306886014]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306886014]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306885928</id>
+      <user>
+  <id>8601285</id>
+  <name><![CDATA[Karla]]></name>
+  <location><![CDATA[Medina, OH]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/8601285-karla]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">6261270</id>
+  <isbn>0785229213</isbn>
+  <isbn13>9780785229216</isbn13>
+  <text_reviews_count type="integer">453</text_reviews_count>
+  <title>
+    <![CDATA[The Noticer: Sometimes, All a Person Needs Is a Little Perspective.]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/6261270-the-noticer</link>
+  <num_pages>167</num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1675</ratings_count>
+
+<authors>
+    <author>
+    <id>31934</id>
+        <name><![CDATA[Andy Andrews]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/31934.Andy_Andrews]]></link>
+    <average_rating>3.99</average_rating>
+    <ratings_count>6322</ratings_count>
+    <text_reviews_count>1710</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+              <shelf name="currently-reading" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at>Wed Apr 04 00:00:00 -0700 2012</started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:01:23 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:02:28 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[This book is a must read, a true story with an amazing way to change your perspective.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306885928]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306885928]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306885792</id>
+      <user>
+  <id>1535835</id>
+  <name><![CDATA[Angela]]></name>
+  <location><![CDATA[Lincoln, NE]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/1535835-angela]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">9326273</id>
+  <isbn>076364496X</isbn>
+  <isbn13>9780763644963</isbn13>
+  <text_reviews_count type="integer">49</text_reviews_count>
+  <title>
+    <![CDATA[Mitchell's License]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1320552302m/9326273.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1320552302s/9326273.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/9326273-mitchell-s-license</link>
+  <num_pages>40</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>132</ratings_count>
+
+<authors>
+    <author>
+    <id>2824570</id>
+        <name><![CDATA[Hallie Durand]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/2824570.Hallie_Durand]]></link>
+    <average_rating>3.83</average_rating>
+    <ratings_count>255</ratings_count>
+    <text_reviews_count>104</text_reviews_count>
+  </author>
+  </authors>  <published>2011</published>
+</book>
+
+
+      <rating>5</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+              <shelf name="childrensbooks" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:01:05 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:01:43 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[We LOVE this book at our house!  I can't count how many times we've read it since we checked it out.  What a cute story!
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306885792]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306885792]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306885741</id>
+      <user>
+  <id>3224397</id>
+  <name><![CDATA[Greymalkin]]></name>
+  <location><![CDATA[El Cerrito, CA]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/3224397-greymalkin]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1265694619p3/3224397.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1265694619p2/3224397.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">10729336</id>
+  <isbn>1402259077</isbn>
+  <isbn13>9781402259074</isbn13>
+  <text_reviews_count type="integer">85</text_reviews_count>
+  <title>
+    <![CDATA[Lord and Lady Spy]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1327926543m/10729336.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1327926543s/10729336.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/10729336-lord-and-lady-spy</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>369</ratings_count>
+
+<authors>
+    <author>
+    <id>93709</id>
+        <name><![CDATA[Shana Galen]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1310148125p5/93709.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1310148125p2/93709.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/93709.Shana_Galen]]></link>
+    <average_rating>3.91</average_rating>
+    <ratings_count>1362</ratings_count>
+    <text_reviews_count>307</text_reviews_count>
+  </author>
+  </authors>  <published>2011</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+              <shelf name="currently-reading" />
+          <shelf name="romance" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at>Wed Apr 04 00:00:00 -0700 2012</started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:00:59 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:02:14 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Obviously a regency rip off of the movie &quot;Mr. and Mrs. Smith&quot; but really well done.  Fluffy and glib, with zippy dialog and plotting that actually hangs together better than it did in the movie.  I thoroughly enjoyed it.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306885741]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306885741]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306885653</id>
+      <user>
+  <id>8498623</id>
+  <name><![CDATA[Stefanie]]></name>
+  <location><![CDATA[The United States]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/8498623-stefanie]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1333163735p3/8498623.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1333163735p2/8498623.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">4588</id>
+  <isbn>0618711651</isbn>
+  <isbn13>9780618711659</isbn13>
+  <text_reviews_count type="integer">9407</text_reviews_count>
+  <title>
+    <![CDATA[Extremely Loud and Incredibly Close]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1327879967m/4588.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1327879967s/4588.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/4588.Extremely_Loud_and_Incredibly_Close</link>
+  <num_pages>326</num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>79061</ratings_count>
+
+<authors>
+    <author>
+    <id>2617</id>
+        <name><![CDATA[Jonathan Safran Foer]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1274633302p5/2617.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1274633302p2/2617.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/2617.Jonathan_Safran_Foer]]></link>
+    <average_rating>4.01</average_rating>
+    <ratings_count>152661</ratings_count>
+    <text_reviews_count>17415</text_reviews_count>
+  </author>
+  </authors>  <published>2005</published>
+</book>
+
+
+      <rating>3</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at>Wed Apr 04 00:00:00 -0700 2012</started_at>
+  <read_at>Wed Apr 04 22:01:36 -0700 2012</read_at>
+  <date_added>Wed Apr 04 22:00:48 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:01:36 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Slow beginning but a nice finish.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306885653]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306885653]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306885601</id>
+      <user>
+  <id>4183215</id>
+  <name><![CDATA[Belindachaplin]]></name>
+  <location><![CDATA[Banja Luka, 02, Bosnia and Herzegovina]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/4183215-belindachaplin]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">12314065</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>
+    <![CDATA[Eyes Of Justice (A Triple Threat Novel)]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/12314065-eyes-of-justice</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>19</ratings_count>
+
+<authors>
+    <author>
+    <id>568299</id>
+        <name><![CDATA[Lis Wiehl]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1253462652p5/568299.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1253462652p2/568299.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/568299.Lis_Wiehl]]></link>
+    <average_rating>3.60</average_rating>
+    <ratings_count>1185</ratings_count>
+    <text_reviews_count>370</text_reviews_count>
+  </author>
+  </authors>  <published>2012</published>
+</book>
+
+
+      <rating>5</rating>
+  <votes>0</votes>
+    <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Apr 05 00:00:00 -0700 2012</read_at>
+  <date_added>Wed Apr 04 22:00:41 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:02:46 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Once again looking at the &quot;Triple Threat&quot; team of 3 ladies: Alison, a federal prosecutor; Nicole, an FBI agent and Cassidy a crime reporter - not just at their relationships, but also at the ins and outs of solving a very intriguing crime. Alison and Nicole, after waiting for their friend ...
+              <a href="http://www.goodreads.com/review/show/306885601">more...</a>
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306885601]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306885601]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306885549</id>
+      <user>
+  <id>2941763</id>
+  <name><![CDATA[Jamie]]></name>
+  <location><![CDATA[The United States]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/2941763-jamie]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">3544982</id>
+  <isbn>0525479708</isbn>
+  <isbn13>9780525479703</isbn13>
+  <text_reviews_count type="integer">118</text_reviews_count>
+  <title>
+    <![CDATA[The King's Rose]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/3544982-the-king-s-rose</link>
+  <num_pages>297</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Dutton Children's Books</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>454</ratings_count>
+
+<authors>
+    <author>
+    <id>1499302</id>
+        <name><![CDATA[Alisa M. Libby]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-F-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-F-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1499302.Alisa_M_Libby]]></link>
+    <average_rating>3.65</average_rating>
+    <ratings_count>715</ratings_count>
+    <text_reviews_count>187</text_reviews_count>
+  </author>
+  </authors>  <published>2009</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:00:34 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:01:28 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Lame.  I didn't even read past the first chapter.  I just don't care to read a story about the pathetic 5th wife of Henry the 8th.  
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306885549]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306885549]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306885496</id>
+      <user>
+  <id>7526465</id>
+  <name><![CDATA[Karen]]></name>
+  <location><![CDATA[]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/7526465-karen]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1327499386p3/7526465.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1327499386p2/7526465.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">601462</id>
+  <isbn>0060752572</isbn>
+  <isbn13>9780060752576</isbn13>
+  <text_reviews_count type="integer">55</text_reviews_count>
+  <title>
+    <![CDATA[The Wall and the Wing (Wall and the Wing, #1)]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/601462.The_Wall_and_the_Wing</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>308</ratings_count>
+
+<authors>
+    <author>
+    <id>73699</id>
+        <name><![CDATA[Laura Ruby]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1293047276p5/73699.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1293047276p2/73699.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/73699.Laura_Ruby]]></link>
+    <average_rating>3.58</average_rating>
+    <ratings_count>2525</ratings_count>
+    <text_reviews_count>435</text_reviews_count>
+  </author>
+  </authors>  <published>2006</published>
+</book>
+
+
+      <rating>5</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[everyone i know]]></recommended_for>
+  <recommended_by><![CDATA[the kind bookshelf]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:00:28 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:02:57 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[This book is awesome!!!!! very interesting and have a good plot.  very exciting too and funny
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306885496]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306885496]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306885360</id>
+      <user>
+  <id>7643291</id>
+  <name><![CDATA[Jc]]></name>
+  <location><![CDATA[Houston, TX]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/7643291-jc]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">399568</id>
+  <isbn>0002253305</isbn>
+  <isbn13>9780002253307</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>
+    <![CDATA[The Biographer's Moustache]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1295127214m/399568.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1295127214s/399568.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/399568.The_Biographer_s_Moustache</link>
+  <num_pages>282</num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>34</ratings_count>
+
+<authors>
+    <author>
+    <id>13078</id>
+        <name><![CDATA[Kingsley Amis]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1206565493p5/13078.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1206565493p2/13078.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/13078.Kingsley_Amis]]></link>
+    <average_rating>3.67</average_rating>
+    <ratings_count>8729</ratings_count>
+    <text_reviews_count>1005</text_reviews_count>
+  </author>
+  </authors>  <published>1995</published>
+</book>
+
+
+      <rating>2</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 22:00:09 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:02:03 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[At a certain point, Amis becomes a self caricature.  The British affectation of refusing to recognize US brand names but splattering the pages with the UK brand names is particularly annoying. But face it, the man was mostly just phoning it in by this point.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306885360]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306885360]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306884682</id>
+      <user>
+  <id>2941763</id>
+  <name><![CDATA[Jamie]]></name>
+  <location><![CDATA[The United States]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/2941763-jamie]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">248484</id>
+  <isbn>1599900513</isbn>
+  <isbn13>9781599900513</isbn13>
+  <text_reviews_count type="integer">3781</text_reviews_count>
+  <title>
+    <![CDATA[Book of a Thousand Days]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1317064379m/248484.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1317064379s/248484.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/248484.Book_of_a_Thousand_Days</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Bloomsbury USA</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>19139</ratings_count>
+
+<authors>
+    <author>
+    <id>49177</id>
+        <name><![CDATA[Shannon Hale]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1299093233p5/49177.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1299093233p2/49177.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/49177.Shannon_Hale]]></link>
+    <average_rating>3.92</average_rating>
+    <ratings_count>161069</ratings_count>
+    <text_reviews_count>30852</text_reviews_count>
+  </author>
+  </authors>  <published>2007</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 21:58:44 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:00:02 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[I really liked this book.  It was set in a Mongolian type country, which was unusual and unexpected.  I really enjoyed the personality of the narrator, and I didn't see the ending coming, which was nice. 
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306884682]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306884682]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306884551</id>
+      <user>
+  <id>5801904</id>
+  <name><![CDATA[Hylary]]></name>
+  <location><![CDATA[The United States]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/5801904-hylary-locsin]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1326070230p3/5801904.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1326070230p2/5801904.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">11013228</id>
+  <isbn>1931520305</isbn>
+  <isbn13>9781931520300</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <title>
+    <![CDATA[The Freedom Maze: a novel]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1315239826m/11013228.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1315239826s/11013228.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/11013228-the-freedom-maze</link>
+  <num_pages>258</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Small Beer Press</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>82</ratings_count>
+
+<authors>
+    <author>
+    <id>24</id>
+        <name><![CDATA[Delia Sherman]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-F-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-F-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/24.Delia_Sherman]]></link>
+    <average_rating>3.90</average_rating>
+    <ratings_count>12560</ratings_count>
+    <text_reviews_count>1368</text_reviews_count>
+  </author>
+  </authors>  <published>2011</published>
+</book>
+
+
+      <rating>4</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Apr 04 21:59:14 -0700 2012</read_at>
+  <date_added>Wed Apr 04 21:58:26 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 21:59:14 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Originally posted on my blog: <a rel="nofollow" target="_blank" href="http://libraryladyhylary.blogspot.com">http://libraryladyhylary.blogspot.com</a> ! Check it out for more reviews!<br/><br/>In 1960 New Orleans, thirteen-year-old Sophie Martineau is struggling to cope with her parents’ recent divorce. Her father has moved to New York City, and her former best friend is no longer...
+              <a href="http://www.goodreads.com/review/show/306884551">more...</a>
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306884551]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306884551]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306884492</id>
+      <user>
+  <id>6267390</id>
+  <name><![CDATA[Kelly]]></name>
+  <location><![CDATA[]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/6267390-kelly]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1321156362p3/6267390.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1321156362p2/6267390.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">10050175</id>
+  <isbn>0547053444</isbn>
+  <isbn13>9780547053448</isbn13>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>
+    <![CDATA[The Elephant Scientist (Scientists in the Field series)]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/10050175-the-elephant-scientist</link>
+  <num_pages>80</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>44</ratings_count>
+
+<authors>
+    <author>
+    <id>220389</id>
+        <name><![CDATA[Caitlin O'Connell]]></name>
+    <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+    <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/220389.Caitlin_O_Connell]]></link>
+    <average_rating>3.70</average_rating>
+    <ratings_count>103</ratings_count>
+    <text_reviews_count>30</text_reviews_count>
+  </author>
+  </authors>  <published>2011</published>
+</book>
+
+
+      <rating>5</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 21:58:16 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 21:58:53 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Lovely. Moving. Informative. Perfect for middle school.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306884492]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306884492]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306884419</id>
+      <user>
+  <id>7643291</id>
+  <name><![CDATA[Jc]]></name>
+  <location><![CDATA[Houston, TX]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/7643291-jc]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-U-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">366437</id>
+  <isbn>0140251723</isbn>
+  <isbn13>9780140251722</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>
+    <![CDATA[The Russian Girl]]>
+  </title>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/366437.The_Russian_Girl</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>61</ratings_count>
+
+<authors>
+    <author>
+    <id>13078</id>
+        <name><![CDATA[Kingsley Amis]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1206565493p5/13078.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1206565493p2/13078.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/13078.Kingsley_Amis]]></link>
+    <average_rating>3.67</average_rating>
+    <ratings_count>8729</ratings_count>
+    <text_reviews_count>1005</text_reviews_count>
+  </author>
+  </authors>  <published>1992</published>
+</book>
+
+
+      <rating>3</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 21:58:06 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 21:59:35 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Reflective of Amis's disgust with the Soviet avant garde.  &quot;They're anti Soviet, therefore they must rock!&quot;  No, they can suck. Hard learning, but live with it.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306884419]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306884419]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306884372</id>
+      <user>
+  <id>4103949</id>
+  <name><![CDATA[Laramie]]></name>
+  <location><![CDATA[The United States]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/4103949-laramie]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-M-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">7719248</id>
+  <isbn>006196266X</isbn>
+  <isbn13>9780061962660</isbn13>
+  <text_reviews_count type="integer">710</text_reviews_count>
+  <title>
+    <![CDATA[Bright Young Things (Bright Young Things, #1)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1323428074m/7719248.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1323428074s/7719248.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/7719248-bright-young-things</link>
+  <num_pages>389</num_pages>
+  <format>Hardcover</format>
+  <edition_information></edition_information>
+  <publisher>Harper</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3534</ratings_count>
+
+<authors>
+    <author>
+    <id>548551</id>
+        <name><![CDATA[Anna Godbersen]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1208628164p5/548551.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1208628164p2/548551.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/548551.Anna_Godbersen]]></link>
+    <average_rating>3.77</average_rating>
+    <ratings_count>52871</ratings_count>
+    <text_reviews_count>6267</text_reviews_count>
+  </author>
+  </authors>  <published>2010</published>
+</book>
+
+
+      <rating>1</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Apr 03 00:00:00 -0700 2012</read_at>
+  <date_added>Wed Apr 04 21:57:59 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 21:58:42 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[Free Nook book a few months back.  Uninteresting. 0 stars.
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306884372]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306884372]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306884289</id>
+      <user>
+  <id>5524591</id>
+  <name><![CDATA[Tracy]]></name>
+  <location><![CDATA[]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/5524591-tracy]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1333571243p3/5524591.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1333571243p2/5524591.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">12067</id>
+  <isbn>0060853980</isbn>
+  <isbn13>9780060853983</isbn13>
+  <text_reviews_count type="integer">3919</text_reviews_count>
+  <title>
+    <![CDATA[Good Omens]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1327875267m/12067.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1327875267s/12067.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/12067.Good_Omens</link>
+  <num_pages>412</num_pages>
+  <format></format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>67051</ratings_count>
+
+<authors>
+    <author>
+    <id>1654</id>
+        <name><![CDATA[Terry Pratchett]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1235562205p5/1654.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1235562205p2/1654.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+    <average_rating>4.05</average_rating>
+    <ratings_count>738314</ratings_count>
+    <text_reviews_count>27316</text_reviews_count>
+  </author>
+  </authors>  <published>1990</published>
+</book>
+
+
+      <rating>5</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 21:57:47 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 21:59:24 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[This book made laugh til I cried AND peed my pants. 
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306884289]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306884289]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306884249</id>
+      <user>
+  <id>4534602</id>
+  <name><![CDATA[Tayla]]></name>
+  <location><![CDATA[The United States]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/4534602-tayla]]></link>
+  <image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-111x148.jpg]]></image_url>
+  <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto-F-50x66.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">11289356</id>
+  <isbn nil="true"></isbn>
+  <isbn13 nil="true"></isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>
+    <![CDATA[Sneak Thievery (The Fade, #2)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1331767772m/11289356.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1331767772s/11289356.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/11289356-sneak-thievery</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information></edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>7</ratings_count>
+
+<authors>
+    <author>
+    <id>4167378</id>
+        <name><![CDATA[Samantha Young]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1331247311p5/4167378.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1331247311p2/4167378.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/4167378.Samantha_Young]]></link>
+    <average_rating>4.26</average_rating>
+    <ratings_count>8573</ratings_count>
+    <text_reviews_count>1003</text_reviews_count>
+  </author>
+  </authors>  <published>2012</published>
+</book>
+
+
+      <rating>0</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+              <shelf name="to-read" />
+      </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 21:57:41 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 22:03:58 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[I NEED TO KNOW WHEN THIS BOOK IS GOING TO BE PUBLISHED. Does anybody know the exact date????
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306884249]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306884249]]></link>
+  <owned>0</owned>
+</review>
+<review>
+  <id>306884164</id>
+      <user>
+  <id>5363994</id>
+  <name><![CDATA[James]]></name>
+  <location><![CDATA[Memphis, TN]]></location>
+  <link><![CDATA[http://www.goodreads.com/user/show/5363994-james-crawford]]></link>
+  <image_url><![CDATA[http://photo.goodreads.com/users/1304383381p3/5363994.jpg]]></image_url>
+  <small_image_url><![CDATA[http://photo.goodreads.com/users/1304383381p2/5363994.jpg]]></small_image_url>
+</user>
+        <book>
+  <id type="integer">9595650</id>
+  <isbn>0345522494</isbn>
+  <isbn13>9780345522498</isbn13>
+  <text_reviews_count type="integer">395</text_reviews_count>
+  <title>
+    <![CDATA[Hexed (Iron Druid Chronicles, #2)]]>
+  </title>
+  <image_url>http://photo.goodreads.com/books/1320539847m/9595650.jpg</image_url>
+  <small_image_url>http://photo.goodreads.com/books/1320539847s/9595650.jpg</small_image_url>
+  <link>http://www.goodreads.com/book/show/9595650-hexed</link>
+  <num_pages>320</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information></edition_information>
+  <publisher>Del Rey</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3245</ratings_count>
+
+<authors>
+    <author>
+    <id>4414255</id>
+        <name><![CDATA[Kevin Hearne]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1289238438p5/4414255.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1289238438p2/4414255.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/4414255.Kevin_Hearne]]></link>
+    <average_rating>4.12</average_rating>
+    <ratings_count>11158</ratings_count>
+    <text_reviews_count>1904</text_reviews_count>
+  </author>
+  </authors>  <published>2011</published>
+</book>
+
+
+      <rating>4</rating>
+  <votes>0</votes>
+    <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  <shelves>
+          <shelf name="read" />
+          </shelves>
+  <recommended_for><![CDATA[]]></recommended_for>
+  <recommended_by><![CDATA[]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 04 21:57:31 -0700 2012</date_added>
+  <date_updated>Wed Apr 04 21:59:57 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+          <![CDATA[review pending
+            ]]>
+      </body>
+  <comments_count>0</comments_count>
+    
+  <url><![CDATA[http://www.goodreads.com/review/show/306884164]]></url>
+  <link><![CDATA[http://www.goodreads.com/review/show/306884164]]></link>
+  <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

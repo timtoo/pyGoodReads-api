@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+<Request>
+<authentication>
+true
+</authentication>
+<key>
+<![CDATA[
+    CL0tx5vHxrTQtzKD4CvJQ
+]]>
+</key>
+<method>
+<![CDATA[
+    series_work
+]]>
+</method>
+</Request>
+<series_works>
+<series_work>
+<id>144392</id>
+<user_position>11</user_position>
+<series>
+<id>40321</id>
+<title>
+<![CDATA[
+    Drina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>11</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+</series_works>
+
+</GoodreadsResponse>

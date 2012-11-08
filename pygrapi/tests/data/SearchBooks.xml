@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[CL0tx5vHxrTQtzKD4CvJQ]]></key>
+    <method><![CDATA[search_index]]></method>
+  </Request>
+  <search>
+  <query><![CDATA[Ender's Game]]></query>
+  
+    <results-start>1</results-start>
+    <results-end>20</results-end>
+    <total-results>35</total-results>
+    <source>Goodreads</source>
+    <query-time-seconds>0.03</query-time-seconds>
+    <results>
+      
+                                
+        <work>
+  <books_count type="integer">94</books_count>
+  <id type="integer">2422333</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_year type="integer">1985</original_publication_year>
+  <ratings_count type="integer">237409</ratings_count>
+  <text_reviews_count type="integer">12281</text_reviews_count>
+  <average_rating>4.21</average_rating>
+  <best_book>
+    <id type="integer">375802</id>
+    <title>Ender's Game (Ender's Saga, #1)</title>
+    <author>
+      <id type="integer">589</id>
+      <name>Orson Scott Card</name>
+    </author>
+    <image_url>http://photo.goodreads.com/books/1316636769m/375802.jpg</image_url>
+    <small_image_url>http://photo.goodreads.com/books/1316636769s/375802.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">2</books_count>
+  <id type="integer">6581562</id>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_year type="integer">2009</original_publication_year>
+  <ratings_count type="integer">322</ratings_count>
+  <text_reviews_count type="integer">56</text_reviews_count>
+  <average_rating>3.78</average_rating>
+  <best_book>
+    <id type="integer">6393082</id>
+    <title>Ender's Game: Battle School </title>
+    <author>
+      <id type="integer">38491</id>
+      <name>Christopher Yost</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">7272274</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month nil="true" type="integer"></original_publication_month>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <ratings_count type="integer">206</ratings_count>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <average_rating>4.21</average_rating>
+  <best_book>
+    <id type="integer">7025086</id>
+    <title>Ender's Game: Command School</title>
+    <author>
+      <id type="integer">38491</id>
+      <name>Christopher Yost</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">12530</id>
+  <original_publication_day type="integer">16</original_publication_day>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_year type="integer">2002</original_publication_year>
+  <ratings_count type="integer">765</ratings_count>
+  <text_reviews_count type="integer">43</text_reviews_count>
+  <average_rating>4.43</average_rating>
+  <best_book>
+    <id type="integer">9735</id>
+    <title>Ender's Game Boxed Set: Ender's Game, Ender's Shadow, Shadow of the Hegemon</title>
+    <author>
+      <id type="integer">589</id>
+      <name>Orson Scott Card</name>
+    </author>
+    <image_url>http://photo.goodreads.com/books/1316131853m/9735.jpg</image_url>
+    <small_image_url>http://photo.goodreads.com/books/1316131853s/9735.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">14709265</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month nil="true" type="integer"></original_publication_month>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <ratings_count type="integer">529</ratings_count>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <average_rating>3.96</average_rating>
+  <best_book>
+    <id type="integer">9818767</id>
+    <title>Ender's Game: Speaker for the Dead</title>
+    <author>
+      <id type="integer">55830</id>
+      <name>Aaron Johnston</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">11571577</id>
+  <original_publication_day type="integer">30</original_publication_day>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <ratings_count type="integer">18</ratings_count>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <average_rating>4.22</average_rating>
+  <best_book>
+    <id type="integer">8782597</id>
+    <title>Ender's Game</title>
+    <author>
+      <id type="integer">2940867</id>
+      <name>Mitch Hedberg</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">12531</id>
+  <original_publication_day type="integer">14</original_publication_day>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_year type="integer">2001</original_publication_year>
+  <ratings_count type="integer">707</ratings_count>
+  <text_reviews_count type="integer">49</text_reviews_count>
+  <average_rating>4.11</average_rating>
+  <best_book>
+    <id type="integer">9736</id>
+    <title>Beyond Ender's Game: Speaker for the Dead, Xenocide, Children of the Mind (Ender's Saga, #2-4)</title>
+    <author>
+      <id type="integer">589</id>
+      <name>Orson Scott Card</name>
+    </author>
+    <image_url>http://photo.goodreads.com/books/1316132092m/9736.jpg</image_url>
+    <small_image_url>http://photo.goodreads.com/books/1316132092s/9736.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">17050695</id>
+  <original_publication_day type="integer">18</original_publication_day>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <ratings_count type="integer">21</ratings_count>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <average_rating>4.10</average_rating>
+  <best_book>
+    <id type="integer">12082688</id>
+    <title>Ender's Game Ultimate Collection</title>
+    <author>
+      <id type="integer">589</id>
+      <name>Orson Scott Card</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">4</books_count>
+  <id type="integer">3386910</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month nil="true" type="integer"></original_publication_month>
+  <original_publication_year type="integer">1986</original_publication_year>
+  <ratings_count type="integer">511</ratings_count>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <average_rating>4.32</average_rating>
+  <best_book>
+    <id type="integer">2183571</id>
+    <title>Ender's War (Ender's Saga, #1-2)</title>
+    <author>
+      <id type="integer">589</id>
+      <name>Orson Scott Card</name>
+    </author>
+    <image_url>http://photo.goodreads.com/books/1321640944m/2183571.jpg</image_url>
+    <small_image_url>http://photo.goodreads.com/books/1321640944s/2183571.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">10523104</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month nil="true" type="integer"></original_publication_month>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <ratings_count type="integer">50</ratings_count>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <average_rating>3.38</average_rating>
+  <best_book>
+    <id type="integer">7734468</id>
+    <title>Ender's Game: War of Gifts</title>
+    <author>
+      <id type="integer">236462</id>
+      <name>Jake Black</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">2</books_count>
+  <id type="integer">9799677</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month nil="true" type="integer"></original_publication_month>
+  <original_publication_year type="integer">2007</original_publication_year>
+  <ratings_count type="integer">6</ratings_count>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <average_rating>3.67</average_rating>
+  <best_book>
+    <id type="integer">7537959</id>
+    <title>Ender's Game (SparkNotes Literature Guide Series)</title>
+    <author>
+      <id type="integer">2904509</id>
+      <name>SparkNotes Editors</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">13731964</id>
+  <original_publication_day type="integer">30</original_publication_day>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <ratings_count type="integer">4</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <average_rating>4.50</average_rating>
+  <best_book>
+    <id type="integer">8856775</id>
+    <title>Ender's Game Series Short Stories: Ender's Game, a Young Man With Prospects, Investment Counselor, Ender in Flight, Mazer in Prison</title>
+    <author>
+      <id type="integer">4340042</id>
+      <name>Books LLC</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">13436611</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month nil="true" type="integer"></original_publication_month>
+  <original_publication_year nil="true" type="integer"></original_publication_year>
+  <ratings_count type="integer">2</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <average_rating>4.00</average_rating>
+  <best_book>
+    <id type="integer">8567979</id>
+    <title>Ender's Game Teacher Guide Literature Unit Book</title>
+    <author>
+      <id type="integer">589</id>
+      <name>Orson Scott Card</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">134903</id>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_year type="integer">2005</original_publication_year>
+  <ratings_count type="integer">11</ratings_count>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <average_rating>4.18</average_rating>
+  <best_book>
+    <id type="integer">139939</id>
+    <title>Orson Scott Card/David Lubar Starscape Boxed Set: Contains Card's 'Ender's Game' and 'Ender's Shadow' and Lubar's Flip and Hidden Talents</title>
+    <author>
+      <id type="integer">589</id>
+      <name>Orson Scott Card</name>
+    </author>
+    <image_url>http://photo.goodreads.com/books/1316737602m/139939.jpg</image_url>
+    <small_image_url>http://photo.goodreads.com/books/1316737602s/139939.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">13151513</id>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <ratings_count type="integer">9</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <average_rating>4.78</average_rating>
+  <best_book>
+    <id type="integer">8302672</id>
+    <title>Novels by Orson Scott Card (Book Guide): Ender's Game, Speaker for the Dead, Shadow Puppets, the Memory of Earth, Xenocide, Empire</title>
+    <author>
+      <id type="integer">4340042</id>
+      <name>Books LLC</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">16300438</id>
+  <original_publication_day type="integer">8</original_publication_day>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <ratings_count type="integer">0</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <average_rating type="float">0.0</average_rating>
+  <best_book>
+    <id type="integer">11369571</id>
+    <title>Ender's Game Series Planets</title>
+    <author>
+      <id type="integer">2940867</id>
+      <name>Mitch Hedberg</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">16300440</id>
+  <original_publication_day type="integer">26</original_publication_day>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <ratings_count type="integer">0</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <average_rating type="float">0.0</average_rating>
+  <best_book>
+    <id type="integer">11369572</id>
+    <title>Ender's Game Series Organizations</title>
+    <author>
+      <id type="integer">2940867</id>
+      <name>Mitch Hedberg</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">16300443</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <ratings_count type="integer">0</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <average_rating type="float">0.0</average_rating>
+  <best_book>
+    <id type="integer">11369573</id>
+    <title>Ender's Game: Battle Room</title>
+    <author>
+      <id type="integer">4801260</id>
+      <name>Lambert M. Surhone</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">13434152</id>
+  <original_publication_day nil="true" type="integer"></original_publication_day>
+  <original_publication_month nil="true" type="integer"></original_publication_month>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <ratings_count type="integer">1</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <average_rating>5.00</average_rating>
+  <best_book>
+    <id type="integer">8565607</id>
+    <title>Creating the Innocent Killer:     Ender's Game, Intention, and Morality</title>
+    <author>
+      <id type="integer">73421</id>
+      <name>John Kessel</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+                                
+        <work>
+  <books_count type="integer">1</books_count>
+  <id type="integer">13625401</id>
+  <original_publication_day type="integer">11</original_publication_day>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <ratings_count type="integer">2</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <average_rating>4.00</average_rating>
+  <best_book>
+    <id type="integer">8752193</id>
+    <title>Short Stories by Series: Ender's Game Series Short Stories, a Young Man With Prospects, Investment Counselor, Ender in Flight, Mazer in Prison</title>
+    <author>
+      <id type="integer">4340042</id>
+      <name>Books LLC</name>
+    </author>
+    <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+    <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  </best_book>
+</work>
+
+      
+    </results>
+  
+</search>
+
+</GoodreadsResponse>

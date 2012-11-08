@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[CL0tx5vHxrTQtzKD4CvJQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>50</id>
+  <title><![CDATA[Hatchet (Hatchet, #1)]]></title>
+  <isbn><![CDATA[0689840926]]></isbn>
+  <isbn13><![CDATA[9780689840920]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <image_url>http://www.goodreads.com/images/nocover-111x148.jpg</image_url>
+  <small_image_url>http://www.goodreads.com/images/nocover-60x80.jpg</small_image_url>
+  <publication_year>2000</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Atheneum/Richard Jackson Books</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<p>Since it was first published in 1987, the story of thirteen-year-old Brian Robeson's survival following a plane crash has become a modern classic. Stranded in the desolate wilderness, Brian uses his instincts and his hatchet to stay alive for fifty-four harrowing days. <p> This twentieth-anniversary edition of <em>Hatchet</em> contains a new introduction and sidebar commentary by Gary Paulsen, written especially for this volume. Drew Willis's detailed pen-and-ink illustrations complement the descriptions in the text and add a new dimension to the book. This handsome edition of the Newbery Honor book will be treasured by <em>Hatchet</em> fans as well as by readers encountering Brian's unforgettable story for the first time.</p></p>]]></description>
+  <work>
+  <best_book_id type="integer">50</best_book_id>
+  <books_count type="integer">47</books_count>
+  <id type="integer">1158125</id>
+  <media_type>book</media_type>
+  <original_language_id type="integer" nil="true"></original_language_id>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_year type="integer">1987</original_publication_year>
+  <original_title>Hatchet</original_title>
+  <rating_dist>5:14067|4:19050|3:17139|2:6610|1:3226|total:60092</rating_dist>
+  <ratings_count type="integer">60515</ratings_count>
+  <ratings_sum type="integer">215913</ratings_sum>
+  <reviews_count type="integer">71564</reviews_count>
+  <text_reviews_count type="integer">3863</text_reviews_count>
+</work>
+
+  <average_rating><![CDATA[3.57]]></average_rating>
+  <num_pages><![CDATA[208]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[57481]]></ratings_count>
+  <text_reviews_count><![CDATA[3441]]></text_reviews_count>
+  
+  <url><![CDATA[http://www.goodreads.com/book/show/50.Hatchet]]></url>
+  <link><![CDATA[http://www.goodreads.com/book/show/50.Hatchet]]></link>
+  
+    
+
+<authors>
+    <author>
+    <id>18</id>
+        <name><![CDATA[Gary Paulsen]]></name>
+    <image_url><![CDATA[http://photo.goodreads.com/authors/1309159225p5/18.jpg]]></image_url>
+    <small_image_url><![CDATA[http://photo.goodreads.com/authors/1309159225p2/18.jpg]]></small_image_url>
+    <link><![CDATA[http://www.goodreads.com/author/show/18.Gary_Paulsen]]></link>
+    <average_rating>3.64</average_rating>
+    <ratings_count>101619</ratings_count>
+    <text_reviews_count>9422</text_reviews_count>
+  </author>
+  </authors>
+    
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: verdana, arial, helvetica, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="http://www.goodreads.com/book/show/50.Hatchet">Hatchet Reviews</a></h1></div>
+  <iframe id="the_iframe" src="http://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;isbn=0689840926&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=fff&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a href="http://www.goodreads.com/book/show/50.Hatchet?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  
+  <popular_shelves>
+          <shelf name="to-read" count="3929"/>
+          <shelf name="young-adult" count="851"/>
+          <shelf name="fiction" count="559"/>
+          <shelf name="currently-reading" count="302"/>
+          <shelf name="adventure" count="262"/>
+          <shelf name="childrens" count="246"/>
+          <shelf name="favorites" count="191"/>
+          <shelf name="ya" count="189"/>
+          <shelf name="survival" count="180"/>
+          <shelf name="classics" count="162"/>
+      </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name><![CDATA[WorldCat]]></name>
+  <link>http://www.goodreads.com/book_link/follow/8?book_id=50</link>
+</book_link><book_link>
+  <id>1027</id>
+  <name><![CDATA[Kobo]]></name>
+  <link>http://www.goodreads.com/book_link/follow/1027?book_id=50</link>
+</book_link><book_link>
+  <id>9</id>
+  <name><![CDATA[Indigo]]></name>
+  <link>http://www.goodreads.com/book_link/follow/9?book_id=50</link>
+</book_link><book_link>
+  <id>4</id>
+  <name><![CDATA[Abebooks]]></name>
+  <link>http://www.goodreads.com/book_link/follow/4?book_id=50</link>
+</book_link><book_link>
+  <id>2</id>
+  <name><![CDATA[Half.com]]></name>
+  <link>http://www.goodreads.com/book_link/follow/2?book_id=50</link>
+</book_link><book_link>
+  <id>10</id>
+  <name><![CDATA[Audible]]></name>
+  <link>http://www.goodreads.com/book_link/follow/10?book_id=50</link>
+</book_link><book_link>
+  <id>5</id>
+  <name><![CDATA[Alibris]]></name>
+  <link>http://www.goodreads.com/book_link/follow/5?book_id=50</link>
+</book_link><book_link>
+  <id>2102</id>
+  <name><![CDATA[iBookstore]]></name>
+  <link>http://www.goodreads.com/book_link/follow/2102?book_id=50</link>
+</book_link><book_link>
+  <id>1602</id>
+  <name><![CDATA[Google eBooks]]></name>
+  <link>http://www.goodreads.com/book_link/follow/1602?book_id=50</link>
+</book_link><book_link>
+  <id>107</id>
+  <name><![CDATA[Better World Books]]></name>
+  <link>http://www.goodreads.com/book_link/follow/107?book_id=50</link>
+</book_link><book_link>
+  <id>7</id>
+  <name><![CDATA[IndieBound]]></name>
+  <link>http://www.goodreads.com/book_link/follow/7?book_id=50</link>
+</book_link><book_link>
+  <id>1</id>
+  <name><![CDATA[Amazon]]></name>
+  <link>http://www.goodreads.com/book_link/follow/1?book_id=50</link>
+</book_link>
+  </book_links>
+  <series_works>
+    <series_work>
+<id>268218</id>
+<user_position>1</user_position>
+<series>
+<id>62223</id>
+<title>
+<![CDATA[
+    Brian's Saga
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>5</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  
+    
+  
+</book>
+
+</GoodreadsResponse>
