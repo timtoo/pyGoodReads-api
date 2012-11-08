@@ -1,5 +1,5 @@
 GoodReads API
--------------
+=============
 
 Most of the functional docs are currently docstrings in the code.
 
@@ -10,10 +10,9 @@ now.
 Tools
 -----
 
-pygrapi-tool - intended to be a general purpose command line interface
-               to good reads functions
+- `pygrapi-tool`: intended to be a general purpose command line interface to good reads functions
 
-pygrapi-oauth - command line tool for setting up oauth authentication
+- `pygrapi-oauth`: command line tool for setting up oauth authentication
 
 
 
